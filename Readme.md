@@ -1,6 +1,6 @@
 ### Hi there, I'm Ponkoj - MAchine Learning Engineer 👋
 
-[![Website](https://cplfoundation.org/wp-content/uploads/2021/05/LinkedIn.jpg)](https://www.linkedin.com/in/ponkoj-chandra-shill-54201417a/)
+[![Website](LinkedIn)
 
 ## I'm a Husband, Father, Developer, and Teacher!!
 
