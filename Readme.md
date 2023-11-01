@@ -4,12 +4,6 @@
 
 I am a Data Science Enthusiast, passionate about working with data-driven technologies to solve real-world problems. I believe that hard work, confidence, dedication & consistency can boost my skills to be a successful person in my career. 
 
-
-### Social Media:
-
-[<img align="left" alt="csp | Faceboook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="csp | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
 <br />
 
 ### Languages and Tools:
