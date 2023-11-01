@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-ponkojchandrashill-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ponkoj-chandra-shill-54201417a/)](https://www.linkedin.com/in/ponkoj-chandra-shill-54201417a/) [![Gmail Badge](https://img.shields.io/badge/-csponkoj@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:csponkoj@gmail.com)](mailto:csponkoj@gmail.com)
 
-I am a Data Science Enthusiast, passionate about working with data-driven technologies to solve real-world problems. I believe that hard work, confidence, dedication & consistency can boost up my skills to be a successful person in career. 
+I am a Data Science Enthusiast, passionate about working with data-driven technologies to solve real-world problems. I believe that hard work, confidence, dedication & consistency can boost my skills to be a successful person in my career. 
 
 
 ### Social Media:
