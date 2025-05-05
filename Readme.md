@@ -1,16 +1,17 @@
-### Hi there, I'm Ponkoj — Machine Learning Engineer 👋
+### Hi there, I'm Ponkoj — PhD Candidate | Machine Learning Engineer 👋
 
 [![LinkedIn Badge](https://img.shields.io/badge/-PonkojChandraShill-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ponkoj-chandra-shill-54201417a/)](https://www.linkedin.com/in/ponkoj-chandra-shill-54201417a/) 
 [![Gmail Badge](https://img.shields.io/badge/-csponkoj@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:csponkoj@gmail.com)](mailto:csponkoj@gmail.com)
 [![Google Scholar Badge](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat-square&logo=GoogleScholar&logoColor=white&link=https://scholar.google.com/citations?user=Wfm3Z_YAAAAJ&hl=en)](https://scholar.google.com/citations?user=Wfm3Z_YAAAAJ&hl=en)
 
 👨‍💻 **About Me**  
-I’m a Machine Learning Engineer and PhD candidate passionate about building AI-driven solutions that solve real-world problems. My work spans across robotics education, adaptive learning systems, and multi-modal AI research. I believe in continuous learning, hard work, and turning ideas into impactful tools.
+I’m a PhD candidate in Computer Science with professional experience as a Machine Learning Engineer. I’m currently working on an NSF-funded project focused on AI-driven undergrad education and adaptive learning technologies. My work bridges academic research and industry applications, with a passion for creating impactful, scalable, and accessible solutions across robotics, multi-modal AI, and personalized learning systems. I believe in continuous learning, collaboration, and transforming innovation into practical outcomes.
 
 🌟 **Current Focus**  
-- AI-assisted educational platforms  
-- Adaptive learning systems  
-- Multi-modal AI and robotics research
+- Developing AI-powered educational platforms with real-time feedback  
+- Designing adaptive learning systems for personalized experiences  
+- Advancing multi-modal AI applications
+- Research on state-of-the-art machine learning algorithms
 
 ### 🔧 Languages and Tools
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
