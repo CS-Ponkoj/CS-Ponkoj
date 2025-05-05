@@ -13,10 +13,28 @@ I’m a PhD candidate in Computer Science with professional experience as a Mach
 - Advancing multi-modal AI applications
 - Research on state-of-the-art machine learning algorithms
 
+
 ### 🔧 Languages and Tools
 
-🐍 Python &nbsp; | &nbsp; ☕ Java &nbsp; | &nbsp; 💻 C++ &nbsp; | &nbsp; 🐬 MySQL &nbsp; | &nbsp; 🔶 TensorFlow &nbsp; | &nbsp; 🔥 PyTorch  
-🧠 Keras &nbsp; | &nbsp; 📊 Scikit-learn &nbsp; | &nbsp; 🐼 Pandas &nbsp; | &nbsp; 📈 NumPy &nbsp; | &nbsp; 📉 Matplotlib  
-🌐 Flask &nbsp; | &nbsp; 📱 Flutter &nbsp; | &nbsp; 🍃 MongoDB &nbsp; | &nbsp; 🐳 Docker &nbsp; | &nbsp; ☸️ Kubernetes  
-🤖 ROS &nbsp; | &nbsp; 🐧 Linux &nbsp; | &nbsp; 📓 Jupyter &nbsp; | &nbsp; 🖥️ VS Code
+[<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />](https://www.python.org/)
+[<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />](https://www.java.com/)
+[<img align="left" alt="C++" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />](https://isocpp.org/)
+[<img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />](https://www.mysql.com/)
+[<img align="left" alt="TensorFlow" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" />](https://www.tensorflow.org/)
+[<img align="left" alt="PyTorch" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" />](https://pytorch.org/)
+[<img align="left" alt="Keras" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" />](https://keras.io/)
+[<img align="left" alt="Scikit-learn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />](https://scikit-learn.org/)
+[<img align="left" alt="Pandas" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" />](https://pandas.pydata.org/)
+[<img align="left" alt="NumPy" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" />](https://numpy.org/)
+[<img align="left" alt="Matplotlib" width="30px" src="https://matplotlib.org/_static/images/logo2.svg" />](https://matplotlib.org/)
+[<img align="left" alt="Flask" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" />](https://flask.palletsprojects.com/)
+[<img align="left" alt="Flutter" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" />](https://flutter.dev/)
+[<img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />](https://www.mongodb.com/)
+[<img align="left" alt="Docker" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />](https://www.docker.com/)
+[<img align="left" alt="Kubernetes" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" />](https://kubernetes.io/)
+[<img align="left" alt="ROS" width="30px" src="https://raw.githubusercontent.com/ros-infrastructure/artwork/master/ros_logo.svg" />](https://www.ros.org/)
+[<img align="left" alt="Linux" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />](https://www.linux.org/)
+[<img align="left" alt="Jupyter" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" />](https://jupyter.org/)
+[<img align="left" alt="VSCode" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />](https://code.visualstudio.com/)
+<br /><br />
 
