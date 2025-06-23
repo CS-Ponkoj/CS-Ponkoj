@@ -13,11 +13,16 @@ I’m a PhD candidate in Computer Science with professional experience as a Mach
 - Advancing multi-modal AI applications
 - Research on state-of-the-art machine learning algorithms
 
+**Contribution**
+pandas_eda_check is a lightweight Python package that simplifies exploratory data analysis (EDA) by quickly summarizing null values, unique values, and data completeness across a pandas DataFrame.
+🔹 Install via pip install pandas-eda-check
+🔍 Ideal for data scientists and analysts who frequently work with messy datasets.
+[![PyPI version](https://badge.fury.io/py/pandas-eda-check.svg)](https://badge.fury.io/py/pandas-eda-check)
 
 ### 🔧 Languages and Tools
 
 [<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />](https://www.python.org/)
-[![PyPI version](https://badge.fury.io/py/pandas-eda-check.svg)](https://badge.fury.io/py/pandas-eda-check)
+
 [<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />](https://www.java.com/)
 [<img align="left" alt="C++" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />](https://isocpp.org/)
 [<img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />](https://www.mysql.com/)
