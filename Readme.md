@@ -7,6 +7,20 @@
 👨‍💻 **About Me**  
 I’m a PhD candidate in Computer Science with professional experience as a Machine Learning Engineer. I’m currently working on an NSF-funded project focused on AI-driven undergrad education and adaptive learning technologies. My work bridges academic research and industry applications, with a passion for creating impactful, scalable, and accessible solutions across robotics, multi-modal AI, and personalized learning systems. I believe in continuous learning, collaboration, and transforming innovation into practical outcomes.
 
+---
+
+### 📊 GitHub Stats
+
+![Ponkoj's GitHub stats](https://github-readme-stats.vercel.app/api?username=CS-Ponkoj&show_icons=true&theme=tokyonight)
+
+### 📘 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CS-Ponkoj&layout=compact&theme=tokyonight)
+
+
+
+
+
 🌟 **Current Focus**  
 - Developing AI-powered educational platforms with real-time feedback  
 - Designing adaptive learning systems for personalized experiences  
