@@ -11,7 +11,7 @@ I’m a PhD candidate in Computer Science with professional experience as a Mach
 
 
 
-![CS-Ponkoj's Stats](https://github-readme-stats.vercel.app/api?username=CS-Ponkoj&theme=blueberry&show_icons=true&hide_border=true&count_private=true)
+![CS-Ponkoj's Stats](https://github-readme-stats.vercel.app/api?username=CS-Ponkoj&theme=blueberry&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false)
 
 
 
