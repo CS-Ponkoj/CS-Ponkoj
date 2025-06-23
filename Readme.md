@@ -17,6 +17,7 @@ I’m a PhD candidate in Computer Science with professional experience as a Mach
 ### 🔧 Languages and Tools
 
 [<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />](https://www.python.org/)
+[![PyPI version](https://badge.fury.io/py/pandas-eda-check.svg)](https://badge.fury.io/py/pandas-eda-check)
 [<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />](https://www.java.com/)
 [<img align="left" alt="C++" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />](https://isocpp.org/)
 [<img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />](https://www.mysql.com/)
