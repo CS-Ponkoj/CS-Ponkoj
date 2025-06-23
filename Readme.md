@@ -9,13 +9,16 @@ I’m a PhD candidate in Computer Science with professional experience as a Mach
 
 ---
 
-### 📊 GitHub Stats
 
-![Ponkoj's GitHub stats](https://github-readme-stats.vercel.app/api?username=CS-Ponkoj&show_icons=true&theme=tokyonight)
 
-### 📘 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CS-Ponkoj&layout=compact&theme=tokyonight)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CS-Ponkoj&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CS-Ponkoj&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph" />
+</div>
+
+
+
 
 
 
