@@ -16,9 +16,6 @@ I’m a PhD candidate in Computer Science with professional experience as a Mach
 
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CS-Ponkoj&theme=blueberry)
-
-
 
 
 🌟 **Current Focus**  
