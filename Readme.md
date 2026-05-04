@@ -1,63 +1,140 @@
-### Hi there, I'm Ponkoj — PhD Candidate | Machine Learning Engineer 👋
+# Hi, I'm Ponkoj Shill
 
-[![LinkedIn Badge](https://img.shields.io/badge/-PonkojChandraShill-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ponkoj-chandra-shill-54201417a/)](https://www.linkedin.com/in/ponkoj-chandra-shill-54201417a/) 
-[![Gmail Badge](https://img.shields.io/badge/-csponkoj@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:csponkoj@gmail.com)](mailto:csponkoj@gmail.com)
-[![Google Scholar Badge](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat-square&logo=GoogleScholar&logoColor=white&link=https://scholar.google.com/citations?user=Wfm3Z_YAAAAJ&hl=en)](https://scholar.google.com/citations?user=Wfm3Z_YAAAAJ&hl=en)
+**PhD Candidate in Computer Science | AI/ML Engineer | Robotics, Multimodal AI, and AI-Assisted Education**
 
-👨‍💻 **About Me**  
-I’m a PhD candidate in Computer Science with professional experience as a Machine Learning Engineer. I’m currently working on an NSF-funded project focused on AI-driven undergrad education and adaptive learning technologies. My work bridges academic research and industry applications, with a passion for creating impactful, scalable, and accessible solutions across robotics, multi-modal AI, and personalized learning systems. I believe in continuous learning, collaboration, and transforming innovation into practical outcomes.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ponkoj%20Shill-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ponkoj-chandra-shill-54201417a/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Ponkoj%20Shill-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=Wfm3Z_YAAAAJ&hl=en)
+[![Email](https://img.shields.io/badge/Email-csponkoj%40gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:csponkoj@gmail.com)
+
+I build applied AI systems that connect research with working software. My work focuses on AI-assisted education, robotics learning platforms, multimodal AI, real-time programming feedback, and intelligent learning systems.
+
+Currently, I am working on an NSF-funded project that uses AI, simulation, adaptive learning, and automated feedback to improve undergraduate robotics education.
 
 ---
 
+## What I Work On
 
+- **AI-assisted education:** intelligent tutoring, adaptive feedback, learning analytics, and programming support
+- **Robotics learning systems:** ROS2, Gazebo, simulation-based learning, and hands-on robotics modules
+- **Multimodal AI:** image, text, OCR, and contextual evidence fusion
+- **Machine learning engineering:** model development, evaluation pipelines, data analysis, and deployment-oriented workflows
+- **Python tooling:** reusable packages for data inspection, EDA, and research workflows
 
-![Ponkoj's Stats](https://github-readme-stats.vercel.app/api?username=CS-Ponkoj&theme=blueberry&show_icons=true&count_private=true&include_all_commits=true)
+---
 
+## Featured Projects
 
+### Hate and Threat Detection in Digital Forensics
 
+A multimodal AI pipeline for forensic evidence analysis using image evidence, OCR text, associated textual context, zero-shot classification, and score-level fusion.
 
+**Highlights**
+- Built a modality-aware pipeline for image-only, OCR-based, and image-plus-context evidence
+- Used OpenCLIP for visual scoring and transformer-based zero-shot models for text classification
+- Designed a frozen label space to keep multimodal predictions consistent and auditable
+- Added structured outputs, configuration files, and reproducible experiment scripts
 
+**Tech:** Python, OpenCLIP, Hugging Face Transformers, OCR, pandas, pytest
 
-🌟 **Current Focus**  
-- Developing AI-powered educational platforms with real-time feedback  
-- Designing adaptive learning systems for personalized experiences  
-- Advancing multi-modal AI applications
-- Research on state-of-the-art machine learning algorithms
+**Repository:** [Hate-and-Threat-Detection-in-Forensics](https://github.com/CS-Ponkoj/Hate-and-Threat-Detection-in-Forensics)
 
-🚀 **Open Source Contribution: `pandas_eda_check`**
+---
 
-A lightweight Python package for fast exploratory data analysis (EDA) with `pandas`.
+### pandas_eda_check
 
-🔹 Quickly checks for missing values, unique entries, and column completeness  
-🔍 Ideal for data scientists and analysts who frequently work with messy datasets  
-📦 Install via: `pip install pandas-eda-check`  
-📂 Source code: [GitHub Repo](https://github.com/yourusername/pandas_eda_check)  
-🌐 PyPI: [pypi.org/project/pandas-eda-check](https://pypi.org/project/pandas-eda-check)  
+A lightweight Python package for fast exploratory data analysis with pandas.
+
+**Highlights**
+- Checks missing values, unique values, data completeness, and column-level summaries
+- Designed for quick inspection of messy tabular datasets
+- Published as an installable Python package
+
+**Install**
+
+```bash
+pip install pandas-eda-check
+```
+
+**Tech:** Python, pandas, PyPI packaging
+
+**Repository:** [pandas_eda_check](https://github.com/CS-Ponkoj/pandas_eda_check)  
+**PyPI:** [pypi.org/project/pandas-eda-check](https://pypi.org/project/pandas-eda-check)
 
 [![PyPI version](https://badge.fury.io/py/pandas-eda-check.svg)](https://badge.fury.io/py/pandas-eda-check)
 
-### 🔧 Languages and Tools
+---
 
-[<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />](https://www.python.org/)
+### AI-Assisted Robotics Learning Platform
 
-[<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />](https://www.java.com/)
-[<img align="left" alt="C++" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />](https://isocpp.org/)
-[<img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />](https://www.mysql.com/)
-[<img align="left" alt="TensorFlow" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" />](https://www.tensorflow.org/)
-[<img align="left" alt="PyTorch" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" />](https://pytorch.org/)
-[<img align="left" alt="Keras" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" />](https://keras.io/)
-[<img align="left" alt="Scikit-learn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />](https://scikit-learn.org/)
-[<img align="left" alt="Pandas" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" />](https://pandas.pydata.org/)
-[<img align="left" alt="NumPy" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" />](https://numpy.org/)
-[<img align="left" alt="Matplotlib" width="30px" src="https://matplotlib.org/_static/images/logo2.svg" />](https://matplotlib.org/)
-[<img align="left" alt="Flask" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" />](https://flask.palletsprojects.com/)
-[<img align="left" alt="Flutter" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" />](https://flutter.dev/)
-[<img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />](https://www.mongodb.com/)
-[<img align="left" alt="Docker" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />](https://www.docker.com/)
-[<img align="left" alt="Kubernetes" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" />](https://kubernetes.io/)
-[<img align="left" alt="ROS" width="30px" src="https://raw.githubusercontent.com/ros-infrastructure/artwork/master/ros_logo.svg" />](https://www.ros.org/)
-[<img align="left" alt="Linux" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />](https://www.linux.org/)
-[<img align="left" alt="Jupyter" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" />](https://jupyter.org/)
-[<img align="left" alt="VSCode" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />](https://code.visualstudio.com/)
-<br /><br />
+A research-driven learning platform for robotics and programming education. The system supports content-based learning, programming exercises, automated unit testing, real-time feedback, and future LLM-based assistance.
 
+**Highlights**
+- Built a platform for programming assignments with automated test-driven feedback
+- Integrated frontend and backend components for student-facing coding workflows
+- Designed learning analytics around attempts, accuracy, feedback, and code improvement
+- Supports future AI-generated hints and adaptive learning paths
+
+**Tech:** Python, Flask, Flutter, unit testing, OpenAI API, ROS2, Gazebo
+
+> Public demo repository coming soon.
+
+---
+
+## Research and Publications
+
+My research focuses on AI-assisted STEM education, robotics learning, adaptive feedback systems, and multimodal AI. I have worked on peer-reviewed research involving robotics education, personalized learning, and AI-supported educational platforms.
+
+**Google Scholar:** [Ponkoj Shill](https://scholar.google.com/citations?user=Wfm3Z_YAAAAJ&hl=en)
+
+---
+
+## Technical Skills
+
+**Languages:** Python, C++, Java, Dart, SQL  
+
+**AI/ML:** PyTorch, TensorFlow, scikit-learn, Hugging Face, OpenCLIP, pandas, NumPy  
+
+**Robotics:** ROS2, Gazebo, robotics simulation, sensor-based learning modules  
+
+**Backend and Apps:** Flask, Flutter, REST APIs  
+
+**Data and Tools:** PostgreSQL, MySQL, Jupyter, Docker, Linux, Git, VS Code  
+
+**Cloud and Deployment:** AWS, GCP, containerized workflows  
+
+---
+
+## Languages and Tools
+
+<p align="left">
+  <img alt="Python" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  <img alt="C++" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
+  <img alt="Java" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+  <img alt="Flutter" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" />
+  <img alt="Flask" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" />
+  <img alt="TensorFlow" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" />
+  <img alt="PyTorch" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" />
+  <img alt="Pandas" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" />
+  <img alt="NumPy" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" />
+  <img alt="Scikit-learn" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
+  <img alt="MySQL" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
+  <img alt="Docker" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
+  <img alt="Linux" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
+  <img alt="Jupyter" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" />
+  <img alt="VS Code" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
+</p>
+
+---
+
+## GitHub Stats
+
+![Ponkoj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CS-Ponkoj&theme=blueberry&show_icons=true&count_private=true&include_all_commits=true)
+
+---
+
+## What I Am Looking For
+
+I am interested in AI/ML engineering, research engineering, applied machine learning, multimodal AI, robotics software, and intelligent education technology roles.
+
+I enjoy building systems where models, data, software, and users come together in real workflows.
+````
