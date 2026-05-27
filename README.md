@@ -28,7 +28,7 @@ flowchart TB
 
     A --> B["LLM Learning Systems<br/>RAG tutoring, AI feedback, code support"]
     A --> C["Robotics Learning Platforms<br/>ROS2, Gazebo, simulation, unit testing"]
-    A --> D["Multimodal AI Pipelines<br/>image, OCR, text context, score fusion"]
+    A --> D["Multimodal AI Pipelines<br/>Image, OCR, text context, score fusion"]
     A --> E["Production ML and Data Systems<br/>AWS/GCP, ETL pipelines, PostGIS analytics"]
 ```
 
