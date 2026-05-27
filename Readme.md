@@ -1,3 +1,5 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&height=220&text=Ponkoj%20Shill&fontAlign=50&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20PhD%20Candidate%20%7C%20LLMs%20%7C%20Robotics%20%7C%20Multimodal%20AI&descAlign=50&descAlignY=58&color=0:0f172a,100:2563eb&fontColor=ffffff)
+
 # Hi, I'm Ponkoj Shill
 
 **AI/ML Engineer and PhD Candidate building LLM-powered learning systems, robotics platforms, multimodal AI pipelines, and production ML/data systems.**
@@ -12,6 +14,29 @@ I am currently a final-year PhD candidate in Computer Science at the University 
 
 ---
 
+## What I Build
+
+```mermaid
+flowchart LR
+    A[LLM Systems] --> A1[RAG Tutoring]
+    A --> A2[AI Feedback]
+    A --> A3[Code Support]
+
+    B[Robotics Platforms] --> B1[ROS2 and Gazebo]
+    B --> B2[Simulation Tasks]
+    B --> B3[Unit Testing]
+
+    C[Multimodal AI] --> C1[Image]
+    C --> C2[OCR]
+    C --> C3[Text Context]
+
+    D[Production ML] --> D1[AWS and GCP]
+    D --> D2[ETL Pipelines]
+    D --> D3[PostGIS Analytics]
+```
+
+---
+
 ## Selected Impact
 
 - Built an **LLM-powered intelligent tutoring system** using RAG, prompt engineering, and OpenAI APIs for an NSF-funded AI education project
@@ -19,6 +44,19 @@ I am currently a final-year PhD candidate in Computer Science at the University 
 - Deployed AI-assisted learning platform components to **100+ students** and co-authored **6+ peer-reviewed papers** with **120+ total citations**
 - Built production-style ML and data pipelines using **AWS, GCP, PostgreSQL, PostGIS, ETL workflows, APIs, and web scraping**
 - Processed **8M+ real-estate images** and analyzed **4M property records** across **100+ geographical risk zones**
+
+---
+
+## Project Snapshot
+
+| Area | Project | What it Shows | Stack |
+|---|---|---|---|
+| Multimodal AI | Hate and Threat Detection in Digital Forensics | Image, OCR, text context, zero-shot classification, score fusion | Python, OpenCLIP, Transformers, OCR |
+| Python Tooling | pandas_eda_check | PyPI package development and practical data inspection | Python, pandas, PyPI |
+| AI Education | AI-Assisted Robotics Learning Platform | LLM tutoring, automated feedback, simulation-based coding | Flask, Flutter, ROS2, Gazebo |
+| Production ML | Real Estate Valuation System | Computer vision, tabular ML, cloud data pipelines, geospatial analytics | AWS, TensorFlow, CatBoost, PostGIS |
+| Biomedical AI | Pump Prediction and Control Optimization | Time-series ML, genetic algorithms, calibration automation | Python, ML, optimization |
+| Analytics | Business Intelligence and Data Analytics | Dashboards, retention analysis, decision support | SQL, Tableau, Power BI |
 
 ---
 
@@ -115,12 +153,14 @@ I am especially interested in intelligent systems that support learning, decisio
 
 ## Technical Stack
 
-**AI/ML:** PyTorch, TensorFlow, scikit-learn, Hugging Face, OpenCLIP, OpenAI APIs, RAG, LLMs, Generative AI, Computer Vision  
-**Robotics:** ROS, ROS2, Gazebo, Webots, Raspberry Pi, sensor-based systems, simulation-based learning  
-**Backend and Apps:** Python, Flask, REST APIs, Flutter, Dart  
-**Data and Analytics:** SQL, pandas, NumPy, PostgreSQL, MySQL, MongoDB, Power BI, Tableau  
-**Cloud and Data Engineering:** AWS S3, Lambda, EC2, RDS, GCP, ETL pipelines, data warehousing, web scraping, PostGIS  
-**Tools:** Git, Linux, Docker, Jupyter, Google Colab, VS Code
+| Area | Tools and Technologies |
+|---|---|
+| AI/ML | PyTorch, TensorFlow, scikit-learn, Hugging Face, OpenCLIP, OpenAI APIs, RAG, LLMs, Generative AI, Computer Vision |
+| Robotics | ROS, ROS2, Gazebo, Webots, Raspberry Pi, sensor-based systems, simulation-based learning |
+| Backend and Apps | Python, Flask, REST APIs, Flutter, Dart |
+| Data and Analytics | SQL, pandas, NumPy, PostgreSQL, MySQL, MongoDB, Power BI, Tableau |
+| Cloud and Data Engineering | AWS S3, Lambda, EC2, RDS, GCP, ETL pipelines, data warehousing, web scraping, PostGIS |
+| Tools | Git, Linux, Docker, Jupyter, Google Colab, VS Code |
 
 ---
 
