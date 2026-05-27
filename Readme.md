@@ -12,30 +12,17 @@ I build applied AI systems that connect models, data, software, and real users. 
 
 I am currently a final-year PhD candidate in Computer Science at the University of Nevada, Reno, working in the Robotics Research Lab on NSF-funded AI-assisted education and personalized robotics learning systems.
 
----
-
 ## What I Build
 
 ```mermaid
-flowchart LR
-    A[LLM Systems] --> A1[RAG Tutoring]
-    A --> A2[AI Feedback]
-    A --> A3[Code Support]
+flowchart TB
+    A["Applied AI Systems I Build"]
 
-    B[Robotics Platforms] --> B1[ROS2 and Gazebo]
-    B --> B2[Simulation Tasks]
-    B --> B3[Unit Testing]
-
-    C[Multimodal AI] --> C1[Image]
-    C --> C2[OCR]
-    C --> C3[Text Context]
-
-    D[Production ML] --> D1[AWS and GCP]
-    D --> D2[ETL Pipelines]
-    D --> D3[PostGIS Analytics]
+    A --> B["LLM Learning Systems<br/>RAG tutoring, AI feedback, code support"]
+    A --> C["Robotics Learning Platforms<br/>ROS2, Gazebo, simulation, unit testing"]
+    A --> D["Multimodal AI Pipelines<br/>image, OCR, text context, score fusion"]
+    A --> E["Production ML and Data Systems<br/>AWS/GCP, ETL pipelines, PostGIS analytics"]
 ```
-
----
 
 ## Selected Impact
 
