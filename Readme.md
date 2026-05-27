@@ -4,7 +4,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ponkoj%20Shill-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ponkoj-chandra-shill-54201417a/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Ponkoj%20Shill-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=Wfm3Z_YAAAAJ&hl=en)
-[![GitHub](https://img.shields.io/badge/GitHub-CS--Ponkoj-black?style=flat-square&logo=github)](https://github.com/CS-Ponkoj)
 [![Email](https://img.shields.io/badge/Email-csponkoj%40gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:csponkoj@gmail.com)
 
 I build applied AI systems that connect models, data, software, and real users. My work spans LLM-based tutoring, robotics education platforms, multimodal AI, computer vision, biomedical machine learning, cloud ML pipelines, and data engineering.
@@ -42,7 +41,7 @@ A multimodal AI pipeline for forensic evidence analysis using image evidence, OC
 A lightweight Python package for fast exploratory data analysis with pandas.
 
 - Published an installable Python package for quick inspection of missing values, unique values, and column completeness
-- Designed as a simple reusable utility for messy tabular datasets and early-stage data analysis
+- Designed as a reusable utility for messy tabular datasets and early-stage data analysis
 
 **Install**
 
@@ -149,14 +148,14 @@ I am especially interested in intelligent systems that support learning, decisio
 
 ---
 
-## GitHub Snapshot
-
-![Ponkoj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CS-Ponkoj&theme=blueberry&show_icons=true&count_private=true&include_all_commits=true)
-
----
-
 ## Roles I Am Interested In
 
 I am interested in AI/ML Engineer, Research Engineer, Applied Scientist, LLM Engineer, Multimodal AI Engineer, Robotics Software Engineer, and Data Scientist roles.
 
 I enjoy building systems where models, data, software, and people come together in real workflows.
+
+---
+
+## GitHub Snapshot
+
+![Ponkoj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CS-Ponkoj&theme=blueberry&show_icons=true&count_private=true&include_all_commits=true)
