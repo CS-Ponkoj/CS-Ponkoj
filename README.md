@@ -92,6 +92,4 @@ I am interested in AI/ML Engineer, Research Engineer, Applied Scientist, LLM Eng
 
 I enjoy building systems where models, data, software, and people come together in real workflows.
 
-## GitHub Snapshot
 
-![Ponkoj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CS-Ponkoj&theme=blueberry&show_icons=true&count_private=true&include_all_commits=true)
