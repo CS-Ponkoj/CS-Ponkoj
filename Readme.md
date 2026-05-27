@@ -17,11 +17,9 @@ I am currently a final-year PhD candidate in Computer Science at the University 
 
 - Built an **LLM-powered intelligent tutoring system** using RAG, prompt engineering, and OpenAI APIs for an NSF-funded AI education project
 - Developed an interactive robotics learning platform using **ROS2, Gazebo, Flask, Flutter, browser-based coding, unit testing, and AI feedback**
-- Deployed AI-assisted learning platform components to **100+ students**
-- Co-authored **6+ peer-reviewed papers** across IEEE, ACM, and ASEE venues, with **120+ total citations**
+- Deployed AI-assisted learning platform components to **100+ students** and co-authored **6+ peer-reviewed papers** with **120+ total citations**
 - Built production-style ML and data pipelines using **AWS, GCP, PostgreSQL, PostGIS, ETL workflows, APIs, and web scraping**
 - Processed **8M+ real-estate images** and analyzed **4M property records** across **100+ geographical risk zones**
-- Applied machine learning and genetic algorithms to biomedical pump data, reducing manual calibration effort by **50%**
 
 ---
 
@@ -31,16 +29,10 @@ I am currently a final-year PhD candidate in Computer Science at the University 
 
 A multimodal AI pipeline for forensic evidence analysis using image evidence, OCR text, associated textual context, zero-shot classification, and score-level fusion.
 
-**What it shows**
-- Multimodal AI pipeline design
-- Image, OCR, and associated-text evidence routing
-- OpenCLIP-based visual scoring
-- Transformer-based zero-shot text classification
-- Frozen label space for consistent and auditable predictions
-- Structured outputs, configs, tests, and reproducible experiment scripts
+- Built a modality-aware pipeline for image-only, OCR-based, and image-plus-context evidence analysis
+- Used OpenCLIP, transformer-based zero-shot classification, frozen labels, structured outputs, and reproducible experiment scripts
 
-**Tech:** Python, OpenCLIP, Hugging Face Transformers, OCR, pandas, pytest
-
+**Tech:** Python, OpenCLIP, Hugging Face Transformers, OCR, pandas, pytest  
 **Repository:** [Hate-and-Threat-Detection-in-Forensics](https://github.com/CS-Ponkoj/Hate-and-Threat-Detection-in-Forensics)
 
 ---
@@ -49,11 +41,8 @@ A multimodal AI pipeline for forensic evidence analysis using image evidence, OC
 
 A lightweight Python package for fast exploratory data analysis with pandas.
 
-**What it shows**
-- Python package development
-- PyPI publishing
-- Practical data inspection utilities
-- Reusable tooling for messy tabular datasets
+- Published an installable Python package for quick inspection of missing values, unique values, and column completeness
+- Designed as a simple reusable utility for messy tabular datasets and early-stage data analysis
 
 **Install**
 
@@ -61,8 +50,7 @@ A lightweight Python package for fast exploratory data analysis with pandas.
 pip install pandas-eda-check
 ```
 
-**Tech:** Python, pandas, PyPI packaging
-
+**Tech:** Python, pandas, PyPI packaging  
 **Repository:** [pandas_eda_check](https://github.com/CS-Ponkoj/pandas_eda_check)  
 **PyPI:** [pypi.org/project/pandas-eda-check](https://pypi.org/project/pandas-eda-check)
 
@@ -70,19 +58,14 @@ pip install pandas-eda-check
 
 ---
 
-## Selected Engineering Work
+## Selected Research and Industry Engineering Work
 
 ### AI-Assisted Robotics Learning Platform
 
-A research-driven platform for robotics and programming education. The system combines structured course content, browser-based coding, robotics simulation, automated unit testing, real-time feedback, learning analytics, and LLM-based student support.
+A research-driven platform for robotics and programming education that combines structured learning content, browser-based coding, simulation, automated feedback, and LLM-based support.
 
-**What I built**
-- Browser-based programming workflow for robotics learning
-- Flask backend and Flutter frontend for student-facing coding tasks
-- ROS2 and Gazebo-based robotics simulation activities
-- Test-Driven Development workflow for evaluating code accuracy and iteration behavior
-- AI assistant modules powered by OpenAI APIs for personalized feedback
-- Learning analytics around attempts, accuracy, stuck states, and improvement over time
+- Built a Flask and Flutter platform with ROS2/Gazebo simulation, browser-based coding, real-time unit testing, and AI feedback
+- Designed learning analytics around code accuracy, attempts, stuck states, iteration behavior, and student improvement
 
 **Tech:** Python, Flask, Flutter, ROS2, Gazebo, OpenAI APIs, unit testing, learning analytics
 
@@ -90,14 +73,10 @@ A research-driven platform for robotics and programming education. The system co
 
 ### Production ML and Real Estate Valuation System
 
-An end-to-end machine learning system for real estate valuation and property intelligence. The system combined image-based feature extraction, tabular modeling, geospatial analysis, automated data pipelines, and cloud infrastructure.
+An end-to-end machine learning system for real estate valuation and property intelligence using computer vision, tabular modeling, geospatial analysis, and cloud infrastructure.
 
-**What I built**
-- Property price estimation system using multimodal machine learning
-- Image classification pipeline using ResNet152V2 and custom Conv2D layers
-- Automated scraping and cloud storage pipeline for 8M+ property images
-- CatBoost-based automated valuation pipeline for continuous price updates
-- Geospatial risk analytics over 4M property records and 100+ risk zones
+- Built image classification and valuation pipelines using ResNet152V2, CatBoost, AWS Lambda, AWS S3, and AWS RDS
+- Processed 8M+ property images and analyzed 4M property records across 100+ geographical risk zones using PostgreSQL and PostGIS
 
 **Tech:** Python, CatBoost, ResNet152V2, TensorFlow, AWS Lambda, AWS S3, AWS RDS, PostgreSQL, PostGIS
 
@@ -107,13 +86,21 @@ An end-to-end machine learning system for real estate valuation and property int
 
 A machine learning and optimization project focused on biomedical pump liquid transfer prediction and calibration automation.
 
-**What I built**
-- Time-series ML models for biomedical pump liquid transfer prediction
-- Genetic algorithm-based optimization for control system calibration
-- Benchmarking and monitoring workflows for deployment readiness
-- Automation pipeline that reduced manual calibration effort by 50%
+- Developed time-series ML models to predict liquid transfer behavior in biomedical pumps
+- Applied genetic algorithms and benchmarking workflows to reduce manual calibration effort by 50%
 
 **Tech:** Python, time-series modeling, genetic algorithms, benchmarking, monitoring
+
+---
+
+### Business Intelligence and Data Analytics
+
+Data analytics and BI work focused on customer behavior, supply-demand patterns, automation, and decision support.
+
+- Built data analysis workflows and dashboards using Python, SQL, Tableau, and Power BI
+- Supported customer retention, business strategy, geographical analysis, and operational decision-making
+
+**Tech:** Python, SQL, MySQL, Tableau, Power BI, data analysis
 
 ---
 
@@ -170,6 +157,6 @@ I am especially interested in intelligent systems that support learning, decisio
 
 ## Roles I Am Interested In
 
-I am interested in roles across AI/ML engineering, research engineering, applied machine learning, multimodal AI, LLM applications, robotics software, data science, and intelligent education technology.
+I am interested in AI/ML Engineer, Research Engineer, Applied Scientist, LLM Engineer, Multimodal AI Engineer, Robotics Software Engineer, and Data Scientist roles.
 
 I enjoy building systems where models, data, software, and people come together in real workflows.
