@@ -149,10 +149,6 @@ My research focuses on AI-assisted STEM education, robotics learning, adaptive f
   <img alt="VS Code" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
 </p>
 
-## GitHub Stats
-
-![Ponkoj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CS-Ponkoj&theme=blueberry&show_icons=true&count_private=true&include_all_commits=true)
-
 ## Roles I Am Interested In
 
 I am interested in AI/ML Engineer, Research Engineer, Applied Scientist, Machine Learning Scientist, Data Scientist, Robotics Software Engineer, and LLM/Generative AI Engineer roles.
