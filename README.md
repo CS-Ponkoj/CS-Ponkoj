@@ -1,3 +1,5 @@
+![Ponkoj Shill — AI/ML Engineer, Ph.D. Candidate, LLMs, Robotics, and Multimodal AI](https://capsule-render.vercel.app/api?type=waving&height=230&text=Ponkoj%20Shill&fontSize=54&fontAlign=50&fontAlignY=36&desc=AI%2FML%20Engineer%20%7C%20PhD%20Candidate%20%7C%20LLMs%20%7C%20Robotics%20%7C%20Multimodal%20AI&descSize=18&descAlign=50&descAlignY=58&color=0:0f172a,100:2563eb&fontColor=ffffff)
+
 # Ponkoj Chandra Shill
 
 **AI/ML Researcher · Ph.D. Candidate in Computer Science**
