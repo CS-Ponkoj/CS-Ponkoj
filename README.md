@@ -135,44 +135,23 @@ flowchart LR
 
 ## Explore
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="./projects.md">Project Portfolio ↗</a></h3>
-      <p>Explore research systems, production ML, multimodal AI, generative engineering, and open-source tooling.</p>
-      <p><a href="./projects.md"><strong>View selected projects →</strong></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="./research.md">Research &amp; Publications ↗</a></h3>
-      <p>Review my NSF-funded research, current directions, peer-reviewed publications, and citation record.</p>
-      <p><a href="./research.md"><strong>View research evidence →</strong></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="./experience.md">Professional Experience ↗</a></h3>
-      <p>See the roles, responsibilities, systems, scale, and measurable outcomes behind my technical work.</p>
-      <p><a href="./experience.md"><strong>View experience →</strong></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://ponkojshill.csponkoj.chatgpt.site/">Live Portfolio ↗</a></h3>
-      <p>Visit the complete visual portfolio with featured case studies, project timelines, and research highlights.</p>
-      <p><a href="https://ponkojshill.csponkoj.chatgpt.site/"><strong>Open portfolio website →</strong></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://ponkojshill.csponkoj.chatgpt.site/resume">Résumé ↗</a></h3>
-      <p>View the full résumé with education, technical skills, recognition, leadership, and downloadable PDF.</p>
-      <p><a href="https://ponkojshill.csponkoj.chatgpt.site/resume"><strong>Open full résumé →</strong></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="mailto:csponkoj@gmail.com">Contact ↗</a></h3>
-      <p>Connect about AI/ML research, applied scientist, machine learning engineering, and collaboration opportunities.</p>
-      <p><a href="mailto:csponkoj@gmail.com"><strong>Email me →</strong></a></p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="./projects.md"><img src="https://img.shields.io/badge/PROJECTS-PORTFOLIO-2563EB?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Project Portfolio"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="./research.md"><img src="https://img.shields.io/badge/RESEARCH-PUBLICATIONS-7C3AED?style=for-the-badge&amp;logo=googlescholar&amp;logoColor=white" alt="Research and Publications"></a>
+</p>
+
+<p align="center">
+  <a href="./experience.md"><img src="https://img.shields.io/badge/EXPERIENCE-CAREER_HISTORY-0F766E?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Professional Experience"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://ponkojshill.csponkoj.chatgpt.site/"><img src="https://img.shields.io/badge/WEBSITE-LIVE_PORTFOLIO-0891B2?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Live Portfolio Website"></a>
+</p>
+
+<p align="center">
+  <a href="https://ponkojshill.csponkoj.chatgpt.site/resume"><img src="https://img.shields.io/badge/R%C3%89SUM%C3%89-VIEW_FULL-334155?style=for-the-badge&amp;logo=readthedocs&amp;logoColor=white" alt="Full Resume"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:csponkoj@gmail.com"><img src="https://img.shields.io/badge/CONTACT-EMAIL_ME-B91C1C?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Ponkoj"></a>
+</p>
 
 ## Contact
 
