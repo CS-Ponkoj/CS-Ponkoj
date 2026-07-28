@@ -1,4 +1,4 @@
-![Ponkoj Shill — AI/ML Engineer, Ph.D. Candidate, LLMs, Robotics, and Multimodal AI](https://capsule-render.vercel.app/api?type=waving&height=230&text=Ponkoj%20Shill&fontSize=54&fontAlign=50&fontAlignY=36&desc=AI%2FML%20Engineer%20%7C%20PhD%20Candidate%20%7C%20LLMs%20%7C%20Robotics%20%7C%20Multimodal%20AI&descSize=18&descAlign=50&descAlignY=58&color=0:0f172a,100:2563eb&fontColor=ffffff)
+![Ponkoj Shill, AI/ML Engineer, Ph.D. Candidate, LLMs, Robotics, and Multimodal AI](https://capsule-render.vercel.app/api?type=waving&height=230&text=Ponkoj%20Shill&fontSize=54&fontAlign=50&fontAlignY=36&desc=AI%2FML%20Engineer%20%7C%20PhD%20Candidate%20%7C%20LLMs%20%7C%20Robotics%20%7C%20Multimodal%20AI&descSize=18&descAlign=50&descAlignY=58&color=0:0f172a,100:2563eb&fontColor=ffffff)
 
 # Ponkoj Chandra Shill
 
@@ -78,23 +78,23 @@ flowchart LR
 
 ## Selected Experience
 
-- **Graduate Research Assistant — University of Nevada, Reno** · Aug 2022–Present<br>
+- **Graduate Research Assistant, University of Nevada, Reno** · Aug 2022–Present<br>
   Developing an NSF-funded AI/ML learning and assessment platform and publishing research on automated evaluation and personalized robotics education.
-- **Business Intelligence Developer — Tahoe Forest Health System** · Mar 2026–Jul 2026<br>
+- **Business Intelligence Developer, Tahoe Forest Health System** · Mar 2026–Jul 2026<br>
   Built dashboards, SQL datasets, data models, and repeatable ETL/data-quality workflows for healthcare operations.
-- **AI Software Engineer Intern — Consynsys Technologies** · Jan 2024–May 2024<br>
+- **AI Software Engineer Intern, Consynsys Technologies** · Jan 2024–May 2024<br>
   Developed biomedical time-series forecasting, optimization, predictive maintenance, and cloud AI workflows.
-- **Machine Learning Engineer / Data Team Lead — Softwrd Ltd** · Jun 2021–Aug 2022<br>
+- **Machine Learning Engineer / Data Team Lead, Softwrd Ltd** · Jun 2021–Aug 2022<br>
   Led multimodal property valuation, computer vision, geospatial intelligence, and large-scale cloud data processing.
 
 [View complete experience](./experience.md) · [View full résumé](https://ponkojshill.csponkoj.chatgpt.site/resume)
 
 ## Selected Publications
 
-1. **WIP: A Unit Testing Framework for Self-Guided Personalized Online Robotics Learning** — First author, IEEE FIE 2024. [DOI](https://doi.org/10.1109/FIE61694.2024.10893417)
-2. **Undergraduate Robotics Education with General Instructors Using a Student-Centered Personalized Learning Framework** — Co-author, ASEE 2024. [Paper](https://peer.asee.org/47002)
-3. **A Schedule of Duties in the Cloud Space Using a Modified Salp Swarm Algorithm** — Co-author, IFIP IoT 2023. [DOI](https://doi.org/10.1007/978-3-031-45878-1_5)
-4. **Multi-modal Hate Speech Detection Using Machine Learning** — Co-author, IEEE Big Data 2021. [DOI](https://doi.org/10.1109/BigData52589.2021.9671955)
+1. **WIP: A Unit Testing Framework for Self-Guided Personalized Online Robotics Learning**: First author, IEEE FIE 2024. [DOI](https://doi.org/10.1109/FIE61694.2024.10893417)
+2. **Undergraduate Robotics Education with General Instructors Using a Student-Centered Personalized Learning Framework**: Co-author, ASEE 2024. [Paper](https://peer.asee.org/47002)
+3. **A Schedule of Duties in the Cloud Space Using a Modified Salp Swarm Algorithm**: Co-author, IFIP IoT 2023. [DOI](https://doi.org/10.1007/978-3-031-45878-1_5)
+4. **Multi-modal Hate Speech Detection Using Machine Learning**: Co-author, IEEE Big Data 2021. [DOI](https://doi.org/10.1109/BigData52589.2021.9671955)
 
 [View research and publication details](./research.md) · [View complete Google Scholar profile](https://scholar.google.com/citations?user=Wfm3Z_YAAAAJ&hl=en)
 
@@ -102,11 +102,11 @@ flowchart LR
 
 ### Core Specialties
 
-- **LLM and generative AI systems** — RAG, prompt engineering, guardrails, structured generation, source-grounded feedback, and model-assisted engineering workflows
-- **Multimodal AI and computer vision** — vision-language models, OCR, transformer-based text analysis, evidence routing, score fusion, and image classification
-- **Predictive ML and experimentation** — regression, time-series forecasting, optimization, feature engineering, hypothesis-driven evaluation, and statistical analysis
-- **Robotics and intelligent learning** — ROS2/Gazebo simulation, automated assessment, behavioral telemetry, personalized feedback, and test-driven learning workflows
-- **Production data and geospatial systems** — cloud processing, ETL, data-quality validation, PostgreSQL/PostGIS analytics, APIs, monitoring, and operational reporting
+- **LLM and generative AI systems:** RAG, prompt engineering, guardrails, structured generation, source-grounded feedback, and model-assisted engineering workflows
+- **Multimodal AI and computer vision:** vision-language models, OCR, transformer-based text analysis, evidence routing, score fusion, and image classification
+- **Predictive ML and experimentation:** regression, time-series forecasting, optimization, feature engineering, hypothesis-driven evaluation, and statistical analysis
+- **Robotics and intelligent learning:** ROS2/Gazebo simulation, automated assessment, behavioral telemetry, personalized feedback, and test-driven learning workflows
+- **Production data and geospatial systems:** cloud processing, ETL, data-quality validation, PostgreSQL/PostGIS analytics, APIs, monitoring, and operational reporting
 
 ### Selected Technologies
 
