@@ -98,15 +98,40 @@ flowchart LR
 
 [View research and publication details](./research.md) · [View complete Google Scholar profile](https://scholar.google.com/citations?user=Wfm3Z_YAAAAJ&hl=en)
 
-## Core Technical Stack
+## Technical Skills
 
-| Area | Technologies Used in Featured Work |
-|---|---|
-| AI/ML | PyTorch, TensorFlow, scikit-learn, Hugging Face, OpenCLIP, DeBERTa, CatBoost, OpenAI APIs, Gemini, Ollama |
-| Robotics and Simulation | ROS2, Gazebo, Webots, Raspberry Pi, sensor systems |
-| Software | Python, SQL, C++, Flask, REST APIs, Flutter, Dart, Streamlit |
-| Data and Cloud | pandas, PostgreSQL, PostGIS, MySQL, MongoDB, AWS, GCP, Microsoft Fabric, ETL pipelines |
-| Quality and Research | Experiment design, statistical analysis, TDD, unit testing, regression testing, model evaluation |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>AI &amp; Machine Learning</h3>
+      <p>Machine learning · Deep learning · NLP · Large language models · Generative AI · Computer vision · Multimodal ML · Time-series forecasting · Anomaly detection · Predictive modeling</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Frameworks &amp; Modeling</h3>
+      <p>PyTorch · TensorFlow · scikit-learn · Hugging Face · OpenCV · OpenCLIP · DeBERTa · CatBoost · OpenAI APIs · Gemini · Ollama</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Programming &amp; Applications</h3>
+      <p>Python · SQL · C++ · Java · Go · Flask · REST APIs · Flutter · Dart · Streamlit · Git · Linux</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Data Engineering &amp; Cloud</h3>
+      <p>ETL pipelines · Data warehousing · pandas · PostgreSQL · PostGIS · MySQL · MongoDB · Spark · Kafka · Hadoop · AWS · GCP · Microsoft Fabric</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Robotics, GIS &amp; Business Intelligence</h3>
+      <p>ROS2 · Gazebo · Webots · Raspberry Pi · Sensor systems · ArcGIS · QGIS · Geospatial analysis · Power BI · Tableau · Operational dashboards</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Research, Quality &amp; Delivery</h3>
+      <p>Experiment design · Statistical analysis · Hypothesis testing · Model evaluation · TDD · Unit and regression testing · Code review · Technical documentation · Stakeholder communication · Team leadership · Mentoring</p>
+    </td>
+  </tr>
+</table>
 
 ## Explore
 
