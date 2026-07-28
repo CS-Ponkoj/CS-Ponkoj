@@ -8,6 +8,8 @@ I develop intelligent learning and production AI systems that combine automated 
 
 Available for **AI/ML research, applied scientist, and machine learning engineering roles beginning January 2027**.
 
+🌐 **Website:** [ponkojshill.csponkoj.chatgpt.site](https://ponkojshill.csponkoj.chatgpt.site/)
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2563eb?style=flat-square&logo=googlechrome&logoColor=white)](https://ponkojshill.csponkoj.chatgpt.site/)
 [![Résumé](https://img.shields.io/badge/R%C3%A9sum%C3%A9-View-0f766e?style=flat-square&logo=readthedocs&logoColor=white)](https://ponkojshill.csponkoj.chatgpt.site/resume)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ponkoj%20Shill-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ponkoj)
