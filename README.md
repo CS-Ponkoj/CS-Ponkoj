@@ -98,23 +98,45 @@ flowchart LR
 
 [View research and publication details](./research.md) · [View complete Google Scholar profile](https://scholar.google.com/citations?user=Wfm3Z_YAAAAJ&hl=en)
 
-## Core Technical Stack
+## Technical Expertise
 
-| Area | Technologies Used in Featured Work |
-|---|---|
-| AI/ML | PyTorch, TensorFlow, scikit-learn, Hugging Face, OpenCLIP, DeBERTa, CatBoost, OpenAI APIs, Gemini, Ollama |
-| Robotics and Simulation | ROS2, Gazebo, Webots, Raspberry Pi, sensor systems |
-| Software | Python, SQL, C++, Flask, REST APIs, Flutter, Dart, Streamlit |
-| Data and Cloud | pandas, PostgreSQL, PostGIS, MySQL, MongoDB, AWS, GCP, Microsoft Fabric, ETL pipelines |
-| Quality and Research | Experiment design, statistical analysis, TDD, unit testing, regression testing, model evaluation |
+### Core Specialties
+
+- **LLM and generative AI systems** — RAG, prompt engineering, guardrails, structured generation, source-grounded feedback, and model-assisted engineering workflows
+- **Multimodal AI and computer vision** — vision-language models, OCR, transformer-based text analysis, evidence routing, score fusion, and image classification
+- **Predictive ML and experimentation** — regression, time-series forecasting, optimization, feature engineering, hypothesis-driven evaluation, and statistical analysis
+- **Robotics and intelligent learning** — ROS2/Gazebo simulation, automated assessment, behavioral telemetry, personalized feedback, and test-driven learning workflows
+- **Production data and geospatial systems** — cloud processing, ETL, data-quality validation, PostgreSQL/PostGIS analytics, APIs, monitoring, and operational reporting
+
+### Selected Technologies
+
+**Languages and software:** `Python` · `SQL` · `C++` · `Flask` · `REST APIs` · `Streamlit` · `Flutter`
+
+**AI and modeling:** `PyTorch` · `TensorFlow` · `scikit-learn` · `Hugging Face` · `OpenCLIP` · `DeBERTa` · `CatBoost`
+
+**Cloud and data:** `AWS` · `GCP` · `PostgreSQL` · `PostGIS` · `MySQL` · `MongoDB` · `Microsoft Fabric`
+
+**Engineering practice:** `Experiment Design` · `Model Evaluation` · `TDD` · `Unit Testing` · `Regression Testing` · `Git` · `Linux` · `Technical Documentation`
 
 ## Explore
 
-- [Project portfolio](./projects.md)
-- [Research and publications](./research.md)
-- [Professional experience](./experience.md)
-- [Live portfolio](https://ponkojshill.csponkoj.chatgpt.site/)
-- [Downloadable résumé](https://ponkojshill.csponkoj.chatgpt.site/resume)
+<p align="center">
+  <a href="./projects.md"><img src="https://img.shields.io/badge/PROJECTS-PORTFOLIO-2563EB?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Project Portfolio"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="./research.md"><img src="https://img.shields.io/badge/RESEARCH-PUBLICATIONS-7C3AED?style=for-the-badge&amp;logo=googlescholar&amp;logoColor=white" alt="Research and Publications"></a>
+</p>
+
+<p align="center">
+  <a href="./experience.md"><img src="https://img.shields.io/badge/EXPERIENCE-CAREER_HISTORY-0F766E?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Professional Experience"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://ponkojshill.csponkoj.chatgpt.site/"><img src="https://img.shields.io/badge/WEBSITE-LIVE_PORTFOLIO-0891B2?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Live Portfolio Website"></a>
+</p>
+
+<p align="center">
+  <a href="https://ponkojshill.csponkoj.chatgpt.site/resume"><img src="https://img.shields.io/badge/R%C3%89SUM%C3%89-VIEW_FULL-334155?style=for-the-badge&amp;logo=readthedocs&amp;logoColor=white" alt="Full Resume"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:csponkoj@gmail.com"><img src="https://img.shields.io/badge/CONTACT-EMAIL_ME-B91C1C?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Ponkoj"></a>
+</p>
 
 ## Contact
 
