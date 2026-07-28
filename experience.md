@@ -1,44 +1,110 @@
-# Experience
+# Professional Experience
 
-[Back to README](./README.md) | [Projects](./projects.md) | [Research](./research.md)
+[Back to README](./README.md) · [Projects](./projects.md) · [Research](./research.md) · [Full résumé](https://ponkojshill.csponkoj.chatgpt.site/resume)
 
-My engineering work combines applied machine learning, backend systems, cloud pipelines, data engineering, analytics, and research software development.
+My work spans AI/ML research, intelligent learning systems, production machine learning, biomedical forecasting, geospatial intelligence, business intelligence, and data platforms.
 
-## Engineering Focus
+## Experience Snapshot
 
-| Area | Experience |
-|---|---|
-| Applied AI/ML | LLM systems, RAG workflows, computer vision, multimodal AI, time-series ML, tabular modeling |
-| Robotics and Education | ROS2, Gazebo, simulation-based learning, browser-based coding, automated feedback |
-| Production Data Systems | ETL pipelines, APIs, PostgreSQL, PostGIS, AWS, GCP, large-scale image and property data processing |
-| Analytics and BI | SQL analysis, dashboards, retention analysis, Tableau, Power BI |
+| Period | Role | Organization | Focus |
+|---|---|---|---|
+| Aug 2022–Present | Graduate Research Assistant | University of Nevada, Reno | NSF-funded AI, automated evaluation, LLM tutoring, robotics simulation |
+| Aug 2025–Present | Graduate Teaching Assistant | University of Nevada, Reno | Python, data science, machine learning fundamentals |
+| Mar 2026–Jul 2026 | Business Intelligence Developer, Part Time | Tahoe Forest Health System | Healthcare BI, SQL, ETL, Microsoft Fabric |
+| Jan 2024–May 2024 | AI Software Engineer Intern | Consynsys Technologies | Biomedical time-series ML, optimization, cloud AI |
+| Jun 2021–Aug 2022 | Machine Learning Engineer / Data Team Lead | Softwrd Ltd | Property valuation, computer vision, geospatial ML |
+| Apr 2020–May 2021 | Business Intelligence Analyst | Truck Lagbe | Retention, supply-demand analysis, Tableau |
+| Mar 2019–Mar 2020 | Data Analyst | Creatino | Analytics, Power BI, product and campaign insights |
+| Sep 2019–Dec 2020 | Teaching Assistant | BRAC University | Instruction, curriculum, assessment, student support |
 
-## Selected Engineering Work
+## Graduate Research Assistant
 
-### AI-Assisted Robotics Learning Platform
+**University of Nevada, Reno · Reno, Nevada · Aug 2022–Present**
 
-Built a research platform that combines robotics learning content, simulation, browser-based coding, automated tests, and LLM-based feedback.
+- Developed an NSF-funded AI/ML learning and assessment platform integrating Python-based automated evaluation, telemetry, supervised ML, guardrailed LLM tutoring, and personalized analytics; platform development is complete and experimental evaluation is in progress.
+- Planned hypothesis-driven experiments using pass rates, attempts, time-to-recovery, edit-run cycles, and learning outcomes to measure intervention impact.
+- Implemented an algorithmic evaluation framework with unit tests, hidden checks, pattern recognition, real-time failure analysis, and automated recommendations for student code.
+- Built NLP and LLM workflows with prompt engineering and guardrails to produce actionable tutoring feedback without exposing final solutions.
+- Developed ROS2 and Gazebo simulation and feedback workflows for robotics education.
+- Collaborated with faculty, students, and NSF stakeholders on use-case selection, design evaluation, demonstrations, peer-reviewed papers, and technical presentations.
 
-**Details:** [Read case study](./docs/ai-assisted-robotics-platform.md)
+**Evidence:** [AI-assisted robotics case study](./docs/ai-assisted-robotics-platform.md) · [IEEE FIE paper](https://doi.org/10.1109/FIE61694.2024.10893417)
 
-### Production ML and Real Estate Valuation System
+## Graduate Teaching Assistant
 
-Built computer vision, tabular ML, cloud processing, and geospatial analytics workflows for large-scale property intelligence.
+**University of Nevada, Reno · Reno, Nevada · Aug 2025–Present**
 
-**Details:** [Read case study](./docs/production-ml-real-estate.md)
+- Teach CS 138: Programming for Data Science in Python, covering data analysis, visualization, machine learning fundamentals, statistical reasoning, and Python-based problem solving.
+- Guide projects using pandas, NumPy, and scikit-learn and translate quantitative findings into clear technical feedback.
 
-### Biomedical Pump Prediction and Control Optimization
+## Business Intelligence Developer, Part Time
 
-Developed time-series ML and optimization workflows for biomedical pump transfer prediction and calibration automation.
+**Tahoe Forest Health System · Truckee, California · Mar 2026–Jul 2026**
 
-**Details:** [Read case study](./docs/biomedical-ml.md)
+- Developed BI dashboards, operational reports, SQL datasets, and data models that translated healthcare operations and leadership needs into actionable information.
+- Gathered reporting requirements, documented business logic, validated metrics, tested outputs, and supported delivery from analysis through deployment and production support.
+- Built, automated, and troubleshot ETL and data-quality workflows across cloud sources, databases, and information systems.
+- Developed on-premises database and ETL solutions supporting Microsoft Fabric data-lake integration with data governance, access control, and privacy-aware analytics.
 
-### Business Intelligence and Data Analytics
+## AI Software Engineer Intern
 
-Built analytics workflows and dashboards for customer behavior, business strategy, geographical analysis, and operational decision-making.
+**Consynsys Technologies · Carson, Nevada · Jan 2024–May 2024**
 
-**Details:** [Read case study](./docs/business-intelligence-data-analytics.md)
+- Developed time-series forecasting models for biomedical pump systems to improve model-driven control, automation efficiency, and engineering insight.
+- Implemented genetic algorithms and optimization logic for pump-control software, reducing manual calibration effort by approximately 50%.
+- Engineered real-time monitoring and predictive-maintenance analytics from sensor and test data, benchmarked performance, and optimized ML workflows for deployment readiness.
+- Designed cloud-based AI and data pipelines on AWS and GCP for scalable processing, inference support, experiment tracking, and engineering analysis.
 
-## Roles I Am Interested In
+**Evidence:** [Biomedical ML case study](./docs/biomedical-ml.md)
 
-I am interested in AI/ML Engineer, Research Engineer, Applied Scientist, LLM Engineer, Multimodal AI Engineer, Robotics Software Engineer, and Data Scientist roles.
+## Machine Learning Engineer / Data Team Lead
+
+**Softwrd Ltd · Oslo, Norway · Jun 2021–Aug 2022**
+
+- Designed an end-to-end multimodal property valuation and geospatial-risk platform using predictive modeling, computer vision, and automated ML/data pipelines.
+- Developed CatBoost regression models and ResNet152V2 image classifiers and productionized feature pipelines, evaluation workflows, and real-time result updates.
+- Automated ingestion and processing for 8M+ images and analyzed 4M+ property records across 100+ risk zones using AWS Lambda, S3, RDS, PostgreSQL, PostGIS, and ETL pipelines.
+- Supported application integration, data-quality validation, performance tuning, release improvements, documentation, and production troubleshooting.
+- Led data-science workstreams, mentored team members, and communicated performance to leadership and customers, contributing to $20K in government funding and valuation results that exceeded Zillow benchmarks.
+
+**Evidence:** [Property valuation and geospatial-risk case study](./docs/production-ml-real-estate.md)
+
+## Business Intelligence Analyst
+
+**Truck Lagbe · Dhaka, Bangladesh · Apr 2020–May 2021**
+
+- Improved customer retention by 15% through data analysis, regression modeling, supply-demand prediction, and automation using Python, MySQL, and Tableau.
+- Delivered stakeholder-ready dashboards, geospatial analysis, and decision support for operational planning and location strategy.
+- Gathered requirements, documented analysis logic, translated operational needs into dashboard improvements, and validated SQL and Tableau outputs.
+- Troubleshot data inconsistencies and improved repeatable reporting processes.
+
+**Evidence:** [Business intelligence case study](./docs/business-intelligence-data-analytics.md)
+
+## Data Analyst
+
+**Creatino · Dhaka, Bangladesh · Mar 2019–Mar 2020**
+
+- Used Python to identify patterns and produce insights supporting user experience and business strategy.
+- Prepared Power BI dashboards for stakeholder communication, campaigns, product decisions, and growth planning.
+- Gathered reporting requirements, cleaned and validated datasets, documented analysis steps, and troubleshot dashboard data issues.
+
+## Teaching Assistant
+
+**BRAC University · Dhaka, Bangladesh · Sep 2019–Dec 2020**
+
+- Conducted classes, contributed to curriculum development, prepared assignments and assessments, and provided academic guidance.
+- Explained technical concepts to diverse learners and improved instructional materials and student support.
+
+## Education
+
+- **Ph.D. in Computer Science**, University of Nevada, Reno · 2022–Present · CGPA 3.87
+- **M.S. in Computer Science**, University of Nevada, Reno · 2022–2024 · CGPA 3.87
+- **B.S. in Computer Science**, BRAC University · 2016–2020 · CGPA 3.60
+
+## Recognition and Leadership
+
+- Graduate Dean's Merit Scholar, University of Nevada, Reno (2024–2025)
+- BRAC University Merit-Based Scholarship (2016–2020)
+- 1st Runner-Up, IEEE COVID-19 Combatants Unification Competition (2020)
+- NASA Space Apps Challenge Finalist (2019)
+- Leadership experience as a data-team lead, student-association president, research seminar organizer, and IoT/data mentor

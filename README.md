@@ -1,24 +1,28 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&height=230&text=Ponkoj%20Shill&fontSize=54&fontAlign=50&fontAlignY=36&desc=AI%2FML%20Engineer%20%7C%20PhD%20Candidate%20%7C%20LLMs%20%7C%20Robotics%20%7C%20Multimodal%20AI&descSize=18&descAlign=50&descAlignY=58&color=0:0f172a,100:2563eb&fontColor=ffffff)
+![Ponkoj Shill — AI/ML Engineer, Ph.D. Candidate, LLMs, Robotics, and Multimodal AI](https://capsule-render.vercel.app/api?type=waving&height=230&text=Ponkoj%20Shill&fontSize=54&fontAlign=50&fontAlignY=36&desc=AI%2FML%20Engineer%20%7C%20PhD%20Candidate%20%7C%20LLMs%20%7C%20Robotics%20%7C%20Multimodal%20AI&descSize=18&descAlign=50&descAlignY=58&color=0:0f172a,100:2563eb&fontColor=ffffff)
 
-# Hi, I'm Ponkoj Shill
+# Ponkoj Chandra Shill
 
-**AI/ML Engineer and PhD Candidate building LLM-powered learning systems, robotics platforms, multimodal AI pipelines, and production ML/data systems.**
+**AI/ML Researcher · Ph.D. Candidate in Computer Science**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ponkoj%20Shill-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ponkoj-chandra-shill-54201417a/)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Ponkoj%20Shill-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=Wfm3Z_YAAAAJ&hl=en)
+I develop intelligent learning and production AI systems that combine automated evaluation, behavioral telemetry, simulation, multimodal evidence, and guardrailed LLM feedback.
+
+Available for **AI/ML research, applied scientist, and machine learning engineering roles beginning January 2027**.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2563eb?style=flat-square&logo=googlechrome&logoColor=white)](https://ponkojshill.csponkoj.chatgpt.site/)
+[![Résumé](https://img.shields.io/badge/R%C3%A9sum%C3%A9-View-0f766e?style=flat-square&logo=readthedocs&logoColor=white)](https://ponkojshill.csponkoj.chatgpt.site/resume)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ponkoj%20Shill-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ponkoj)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=Wfm3Z_YAAAAJ&hl=en)
 [![Email](https://img.shields.io/badge/Email-csponkoj%40gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:csponkoj@gmail.com)
 
-I build applied AI systems that connect models, data, software, and real users. My work spans LLM-based tutoring, robotics education platforms, multimodal AI, computer vision, biomedical machine learning, cloud ML pipelines, geospatial analytics, and data engineering.
+## Evidence at a Glance
 
-I am currently a final-year PhD candidate in Computer Science at the University of Nevada, Reno, working in the Robotics Research Lab on NSF-funded AI-assisted education and personalized robotics learning systems.
+| Research | Applied Impact | Production Scale |
+|---|---|---|
+| **6 peer-reviewed papers** | **100+ students** supported by an AI-assisted learning platform | **8M+ images** processed |
+| **160+ citations** | **50%** reduction in biomedical pump calibration effort | **4M+ property records** analyzed |
+| **NSF-funded research** | **15%** improvement in customer retention | **100+ geospatial risk zones** evaluated |
 
-## Explore More
-
-| Section | Link |
-|---|---|
-| Project Portfolio | [View Projects](./projects.md) |
-| Research and Publications | [View Research](./research.md) |
-| Industry and Engineering Work | [View Experience](./experience.md) |
+*Citation count current as of July 2026.*
 
 ## What I Build
 
@@ -32,64 +36,86 @@ flowchart TB
     A --> E["Production ML and Data Systems<br/>AWS/GCP, ETL pipelines, PostGIS analytics"]
 ```
 
-## Selected Impact
+## Featured Work
 
-- Built an **LLM-powered intelligent tutoring system** using RAG, prompt engineering, and OpenAI APIs for an NSF-funded AI education project
-- Developed an interactive robotics learning platform using **ROS2, Gazebo, Flask, Flutter, browser-based coding, unit testing, and AI feedback**
-- Deployed AI-assisted learning components to **100+ students**; co-authored **6+ peer-reviewed papers** with **120+ citations**
-- Built production-style ML and data pipelines using **AWS, GCP, PostgreSQL, PostGIS, ETL workflows, APIs, and web scraping**
-- Processed **8M+ real-estate images** and analyzed **4M property records** across **100+ geographical risk zones**
+| System | What I Built | Evidence |
+|---|---|---|
+| **AI-Assisted TDD for Robotics Learning** | Automated evaluation, behavioral telemetry, ROS2/Gazebo simulation, and guardrailed LLM tutoring | [Case study](./docs/ai-assisted-robotics-platform.md) · [IEEE paper](https://doi.org/10.1109/FIE61694.2024.10893417) |
+| **AI-Assisted PCB Design** | Natural-language requirements transformed into validated BOM, pin map, netlist, power budget, and interactive design review | [Case study](./docs/ai-assisted-pcb-design.md) · [Live demo](https://ai-assisted-pcb-design.streamlit.app/) · [Repository](https://github.com/CS-Ponkoj/AI-Assisted-PCB-Design) |
+| **Multimodal Digital Forensics** | OCR, OpenCLIP, DeBERTa, modality-aware routing, and auditable score fusion | [Case study](./docs/multimodal-forensics-ai.md) · [Repository](https://github.com/CS-Ponkoj/Hate-and-Threat-Detection-in-Forensics) |
+| **Property Valuation and Geospatial Risk** | CatBoost valuation, ResNet152V2 classification, PostGIS analytics, and AWS ETL pipelines | [Case study](./docs/production-ml-real-estate.md) · [Experience](./experience.md#machine-learning-engineer--data-team-lead) |
+| **pandas-eda-check** | Reusable data-quality reports and dataset profile comparison for schema, quality, numeric, datetime, and categorical changes | [Case study](./docs/pandas-eda-check.md) · [PyPI](https://pypi.org/project/pandas-eda-check/) · [Repository](https://github.com/CS-Ponkoj/pandas_eda_check) |
 
-## Featured Projects
+## Evidence-Backed Capabilities
 
-| Area | Project | What it Shows | Details |
-|---|---|---|---|
-| AI Education | AI-Assisted Robotics Learning Platform | LLM tutoring, automated feedback, simulation-based coding | [Read case study](./docs/ai-assisted-robotics-platform.md) |
-| Multimodal AI | Hate and Threat Detection in Digital Forensics | Image, OCR, text context, zero-shot classification, score fusion | [Read case study](./docs/multimodal-forensics-ai.md) |
-| Production ML | Real Estate Valuation System | Computer vision, tabular ML, cloud pipelines, geospatial analytics | [Read case study](./docs/production-ml-real-estate.md) |
-| Biomedical AI | Pump Prediction and Control Optimization | Time-series ML, optimization, calibration automation | [Read case study](./docs/biomedical-ml.md) |
-| Python Tooling | pandas_eda_check | PyPI package development and practical data inspection | [Read case study](./docs/pandas-eda-check.md) |
+| Capability | Selected Evidence |
+|---|---|
+| **Intelligent Learning Systems** | Automated tests, hidden checks, learning telemetry, simulation, and LLM tutoring in an NSF-funded research platform |
+| **Generative AI and Engineering Automation** | Gemini/Ollama requirement extraction, deterministic validation, structured hardware artifacts, and review workflows |
+| **Multimodal AI and Digital Forensics** | OCR, vision-language models, transformer text analysis, evidence routing, and score fusion |
+| **Predictive and Geospatial Intelligence** | CatBoost, PostgreSQL/PostGIS, AWS processing, and multimillion-record property workflows |
+| **Computer Vision and Robotics** | ResNet152V2, ROS2, Gazebo, embedded systems, simulation, and human-robot interaction |
+| **Open-Source Data and ML Tooling** | Published PyPI package with tests and CI for data-quality assessment and profile comparison |
 
-See the full portfolio here: [projects.md](./projects.md).
+## AI-Assisted Robotics Learning System
 
-## Public Repositories
-
-### Hate and Threat Detection in Digital Forensics
-
-A multimodal AI pipeline for forensic evidence analysis using image evidence, OCR text, associated textual context, zero-shot classification, and score-level fusion.
-
-**Tech:** Python, OpenCLIP, Hugging Face Transformers, OCR, pandas, pytest  
-**Repository:** [Hate-and-Threat-Detection-in-Forensics](https://github.com/CS-Ponkoj/Hate-and-Threat-Detection-in-Forensics)
-
-### pandas_eda_check
-
-A lightweight Python package for fast exploratory data analysis with pandas.
-
-```bash
-pip install pandas-eda-check
+```mermaid
+flowchart LR
+    A["Learner<br/>Browser / Flutter"] --> B["Learning API<br/>Flask"]
+    B --> C["Automated Evaluation<br/>Tests + Hidden Checks"]
+    C --> D["ROS2 / Gazebo<br/>Simulation"]
+    B --> E["Behavioral Telemetry<br/>Attempts + Recovery"]
+    C --> F["Guardrailed LLM Tutor"]
+    E --> F
+    F --> A
 ```
 
-**Tech:** Python, pandas, PyPI packaging  
-**Repository:** [pandas_eda_check](https://github.com/CS-Ponkoj/pandas_eda_check)  
-**PyPI:** [pypi.org/project/pandas-eda-check](https://pypi.org/project/pandas-eda-check)
+**Built:** evaluation, telemetry, simulation, and tutoring workflows<br>
+**Measures:** accuracy, efficiency, recovery, robustness, and learner experience<br>
+**Status:** platform developed; experimental evaluation in progress
 
-[![PyPI version](https://badge.fury.io/py/pandas-eda-check.svg)](https://badge.fury.io/py/pandas-eda-check)
+## Selected Experience
 
-## Technical Stack
+- **Graduate Research Assistant — University of Nevada, Reno** · Aug 2022–Present<br>
+  Developing an NSF-funded AI/ML learning and assessment platform and publishing research on automated evaluation and personalized robotics education.
+- **Business Intelligence Developer — Tahoe Forest Health System** · Mar 2026–Jul 2026<br>
+  Built dashboards, SQL datasets, data models, and repeatable ETL/data-quality workflows for healthcare operations.
+- **AI Software Engineer Intern — Consynsys Technologies** · Jan 2024–May 2024<br>
+  Developed biomedical time-series forecasting, optimization, predictive maintenance, and cloud AI workflows.
+- **Machine Learning Engineer / Data Team Lead — Softwrd Ltd** · Jun 2021–Aug 2022<br>
+  Led multimodal property valuation, computer vision, geospatial intelligence, and large-scale cloud data processing.
 
-| Area | Tools and Technologies |
+[View complete experience](./experience.md) · [View full résumé](https://ponkojshill.csponkoj.chatgpt.site/resume)
+
+## Selected Publications
+
+1. **WIP: A Unit Testing Framework for Self-Guided Personalized Online Robotics Learning** — First author, IEEE FIE 2024. [DOI](https://doi.org/10.1109/FIE61694.2024.10893417)
+2. **Undergraduate Robotics Education with General Instructors Using a Student-Centered Personalized Learning Framework** — Co-author, ASEE 2024. [Paper](https://peer.asee.org/47002)
+3. **A Schedule of Duties in the Cloud Space Using a Modified Salp Swarm Algorithm** — Co-author, IFIP IoT 2023. [DOI](https://doi.org/10.1007/978-3-031-45878-1_5)
+4. **Multi-modal Hate Speech Detection Using Machine Learning** — Co-author, IEEE Big Data 2021. [DOI](https://doi.org/10.1109/BigData52589.2021.9671955)
+
+[View research and publication details](./research.md) · [View complete Google Scholar profile](https://scholar.google.com/citations?user=Wfm3Z_YAAAAJ&hl=en)
+
+## Core Technical Stack
+
+| Area | Technologies Used in Featured Work |
 |---|---|
-| AI/ML | PyTorch, TensorFlow, scikit-learn, Hugging Face, OpenCLIP, OpenAI APIs, RAG, LLMs, Generative AI, Computer Vision |
-| Robotics | ROS, ROS2, Gazebo, Webots, Raspberry Pi, sensor-based systems, simulation-based learning |
-| Backend and Apps | Python, Flask, REST APIs, Flutter, Dart |
-| Data and Analytics | SQL, pandas, NumPy, PostgreSQL, MySQL, MongoDB, Power BI, Tableau |
-| Cloud and Data Engineering | AWS S3, Lambda, EC2, RDS, GCP, ETL pipelines, data warehousing, web scraping, PostGIS |
-| Tools | Git, Linux, Docker, Jupyter, Google Colab, VS Code |
+| AI/ML | PyTorch, TensorFlow, scikit-learn, Hugging Face, OpenCLIP, DeBERTa, CatBoost, OpenAI APIs, Gemini, Ollama |
+| Robotics and Simulation | ROS2, Gazebo, Webots, Raspberry Pi, sensor systems |
+| Software | Python, SQL, C++, Flask, REST APIs, Flutter, Dart, Streamlit |
+| Data and Cloud | pandas, PostgreSQL, PostGIS, MySQL, MongoDB, AWS, GCP, Microsoft Fabric, ETL pipelines |
+| Quality and Research | Experiment design, statistical analysis, TDD, unit testing, regression testing, model evaluation |
 
-## Roles I Am Interested In
+## Explore
 
-I am interested in AI/ML Engineer, Research Engineer, Applied Scientist, LLM Engineer, Multimodal AI Engineer, Robotics Software Engineer, and Data Scientist roles.
+- [Project portfolio](./projects.md)
+- [Research and publications](./research.md)
+- [Professional experience](./experience.md)
+- [Live portfolio](https://ponkojshill.csponkoj.chatgpt.site/)
+- [Downloadable résumé](https://ponkojshill.csponkoj.chatgpt.site/resume)
 
-I enjoy building systems where models, data, software, and people come together in real workflows.
+## Contact
 
+**Research questions deserve working systems.**
 
+[Email](mailto:csponkoj@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ponkoj) · [GitHub](https://github.com/CS-Ponkoj) · [Google Scholar](https://scholar.google.com/citations?user=Wfm3Z_YAAAAJ&hl=en)
