@@ -24,6 +24,18 @@ Available for **AI/ML research, applied scientist, and machine learning engineer
 
 *Citation count current as of July 2026.*
 
+## What I Build
+
+```mermaid
+flowchart TB
+    A["Applied AI Systems I Build"]
+
+    A --> B["LLM Learning Systems<br/>RAG tutoring, AI feedback, code support"]
+    A --> C["Robotics Learning Platforms<br/>ROS2, Gazebo, simulation, unit testing"]
+    A --> D["Multimodal AI Pipelines<br/>Image, OCR, text context, score fusion"]
+    A --> E["Production ML and Data Systems<br/>AWS/GCP, ETL pipelines, PostGIS analytics"]
+```
+
 ## Featured Work
 
 | System | What I Built | Evidence |
