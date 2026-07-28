@@ -1,41 +1,52 @@
 # Hate and Threat Detection in Digital Forensics
 
-[Back to Projects](../projects.md) | [Back to README](../README.md)
+[Back to Projects](../projects.md) · [Back to README](../README.md) · [Repository](https://github.com/CS-Ponkoj/Hate-and-Threat-Detection-in-Forensics)
 
-## Overview
-
-A multimodal AI pipeline for forensic evidence analysis using image evidence, OCR text, associated textual context, zero-shot classification, and score-level fusion.
+| | |
+|---|---|
+| **Type** | Public multimodal-AI project |
+| **Role** | Designer and developer |
+| **Timeline** | Nov 2025–Dec 2025 |
+| **Status** | Reproducible public pipeline |
 
 ## Problem
 
-Digital forensic evidence may include screenshots, images, embedded text, surrounding context, or combinations of modalities. A single text-only or image-only model can miss important signals when evidence is noisy or incomplete.
+Digital-forensic evidence can include screenshots, embedded text, nearby messages, or image-only content. A single text or vision model can miss important signals when evidence is noisy, incomplete, or distributed across modalities.
 
-## What I Built
-
-- Built a modality-aware pipeline for image-only, OCR-based, and image-plus-context evidence analysis
-- Used OpenCLIP and transformer-based zero-shot classification
-- Added frozen labels, structured outputs, and reproducible experiment scripts
-- Designed score-level fusion to combine evidence from multiple modalities
-- Organized the project for repeatable evaluation and clearer forensic AI experimentation
-
-## Architecture
+## System
 
 ```mermaid
 flowchart LR
-    A["Input Evidence"] --> B["Image Encoder<br/>OpenCLIP"]
-    A --> C["OCR Text Extraction"]
-    A --> D["Associated Text Context"]
-    B --> E["Zero-Shot Scoring"]
-    C --> E
-    D --> E
-    E --> F["Score Fusion"]
-    F --> G["Structured Output"]
+    A["Input Evidence"] --> B["Case Routing"]
+    B --> C["OCR Text"]
+    B --> D["Associated Text"]
+    B --> E["Image Evidence"]
+    C --> F["DeBERTa<br/>Zero-Shot Scoring"]
+    D --> F
+    E --> G["OpenCLIP<br/>Visual Scoring"]
+    F --> H["Auditable<br/>Score Fusion"]
+    G --> H
+    H --> I["Structured Output"]
 ```
 
-## Tech Stack
+## What I Built
 
-Python, OpenCLIP, Hugging Face Transformers, OCR, pandas, pytest.
+- Case-driven routing for OCR, associated-text, and image-only evidence
+- OpenCLIP visual scoring and transformer-based zero-shot text classification
+- Frozen labels and explicit prompt/model configuration
+- Structured intermediate CSV outputs and official fusion output
+- Score-level fusion across available modalities
+- Repeatable command-line entry points, regression tests, and experiment scripts
 
-## Repository
+## Reproducibility
 
-[Hate-and-Threat-Detection-in-Forensics](https://github.com/CS-Ponkoj/Hate-and-Threat-Detection-in-Forensics)
+The repository separates configuration, raw inputs, generated outputs, active pipeline modules, experiments, legacy scripts, and tests. The README documents the exact run order from evidence routing through final fusion.
+
+## Technology
+
+Python, OpenCLIP, Hugging Face Transformers, DeBERTa, Tesseract OCR, pandas, pytest.
+
+## Evidence
+
+- [Public repository](https://github.com/CS-Ponkoj/Hate-and-Threat-Detection-in-Forensics)
+- [Related IEEE Big Data publication](https://doi.org/10.1109/BigData52589.2021.9671955)

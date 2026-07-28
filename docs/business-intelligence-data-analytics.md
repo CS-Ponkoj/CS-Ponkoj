@@ -1,27 +1,48 @@
 # Business Intelligence and Data Analytics
 
-[Back to Projects](../projects.md) | [Back to README](../README.md)
+[Back to Projects](../projects.md) · [Back to README](../README.md) · [Professional experience](../experience.md)
 
-## Overview
+## Scope
 
-Data analytics and BI work focused on customer behavior, supply-demand patterns, automation, and decision support.
+Business-intelligence and analytics work across healthcare operations, logistics, product strategy, reporting automation, and data platforms.
 
-## Problem
+## Selected Professional Work
 
-Business and operations teams often need clear analytics that connect raw data to decisions. The goal was to build workflows and dashboards that made trends, risks, and opportunities easier to understand.
+### Tahoe Forest Health System · Mar 2026–Jul 2026
 
-## What I Built
+- Developed healthcare BI dashboards, operational reports, SQL datasets, and data models
+- Gathered reporting requirements, documented business logic, validated metrics, tested outputs, and supported production delivery
+- Automated ETL and data-quality workflows across cloud sources, databases, and information systems
+- Built on-premises database/ETL solutions supporting Microsoft Fabric integration, governance, access control, and privacy-aware analytics
 
-- Built data analysis workflows using Python and SQL
-- Created dashboards using Tableau and Power BI
-- Supported customer retention, business strategy, geographical analysis, and operational decision-making
-- Worked with MySQL and structured reporting workflows
+### Truck Lagbe · Apr 2020–May 2021
 
-## Tech Stack
+- Improved customer retention by **15%** through regression modeling, supply-demand prediction, automation, and business analysis
+- Delivered Tableau dashboards, geospatial analysis, and decision support for operational planning and location strategy
+- Validated SQL and Tableau outputs and improved repeatable reporting processes
 
-Python, SQL, MySQL, Tableau, Power BI, data analysis.
+### Creatino · Mar 2019–Mar 2020
 
-## Impact
+- Used Python to identify patterns supporting user experience and business strategy
+- Built Power BI dashboards for campaigns, product decisions, stakeholder communication, and growth planning
+- Cleaned and validated datasets, documented analysis, and troubleshot reporting issues
 
-- Improved visibility into customer behavior and business patterns
-- Supported decision-making through structured analytics and dashboards
+## Workflow
+
+```mermaid
+flowchart LR
+    A["Business Question"] --> B["Requirements +<br/>Metric Definition"]
+    B --> C["SQL / ETL +<br/>Data Quality"]
+    C --> D["Analysis +<br/>Modeling"]
+    D --> E["Dashboard /<br/>Operational Report"]
+    E --> F["Stakeholder Decision"]
+    F --> B
+```
+
+## Technology
+
+Python, SQL, MySQL, PostgreSQL, Microsoft Fabric, ETL, data modeling, Tableau, Power BI, regression analysis, geospatial analysis, data governance.
+
+## Evidence
+
+See the dated roles, responsibilities, and outcomes in [professional experience](../experience.md#business-intelligence-developer-part-time).
