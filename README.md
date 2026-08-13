@@ -143,3 +143,15 @@ flowchart LR
 **Research questions deserve working systems.**
 
 [Email](mailto:csponkoj@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ponkoj) · [GitHub](https://github.com/CS-Ponkoj) · [Google Scholar](https://scholar.google.com/citations?user=Wfm3Z_YAAAAJ&hl=en)
+
+## Author
+
+**Ponkoj Shill**  
+AI/ML researcher and Ph.D. candidate in Computer Science
+
+- [GitHub](https://github.com/CS-Ponkoj)
+- [Portfolio](https://ponkoj.com)
+
+## License
+
+No license file is currently included. Please contact the author before reusing the repository beyond review, education, or fair-use evaluation.
