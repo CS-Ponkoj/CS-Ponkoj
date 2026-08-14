@@ -129,7 +129,7 @@ flowchart LR
 <p align="center">
   <a href="./experience.md"><img src="https://img.shields.io/badge/EXPERIENCE-CAREER_HISTORY-0F766E?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Professional Experience"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://ponkojshill.csponkoj.chatgpt.site/"><img src="https://img.shields.io/badge/WEBSITE-LIVE_PORTFOLIO-0891B2?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Live Portfolio Website"></a>
+  <a href="https://ponkoj.com/"><img src="https://img.shields.io/badge/WEBSITE-LIVE_PORTFOLIO-0891B2?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Live Portfolio Website"></a>
 </p>
 
 <p align="center">
