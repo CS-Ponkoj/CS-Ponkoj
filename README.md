@@ -133,7 +133,7 @@ flowchart LR
 </p>
 
 <p align="center">
-  <a href="https://ponkoj.com"><img src="https://img.shields.io/badge/R%C3%89SUM%C3%89-VIEW_FULL-334155?style=for-the-badge&amp;logo=readthedocs&amp;logoColor=white" alt="Full Resume"></a>
+  <a href="https://ponkojshill.csponkoj.chatgpt.site/resume"><img src="https://img.shields.io/badge/R%C3%89SUM%C3%89-VIEW_FULL-334155?style=for-the-badge&amp;logo=readthedocs&amp;logoColor=white" alt="Full Resume"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:csponkoj@gmail.com"><img src="https://img.shields.io/badge/CONTACT-EMAIL_ME-B91C1C?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Ponkoj"></a>
 </p>
