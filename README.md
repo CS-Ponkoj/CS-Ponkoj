@@ -10,7 +10,7 @@ Available for **AI/ML research, applied scientist, and machine learning engineer
 
 🌐 **Website:** [ponkoj.com](https://ponkoj.com/)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2563eb?style=flat-square&logo=googlechrome&logoColor=white)](https://ponkojshill.csponkoj.chatgpt.site/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2563eb?style=flat-square&logo=googlechrome&logoColor=white)](https://ponkoj.com/)
 [![Résumé](https://img.shields.io/badge/R%C3%A9sum%C3%A9-View-0f766e?style=flat-square&logo=readthedocs&logoColor=white)](https://ponkojshill.csponkoj.chatgpt.site/resume)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ponkoj%20Shill-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ponkoj)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=Wfm3Z_YAAAAJ&hl=en)
