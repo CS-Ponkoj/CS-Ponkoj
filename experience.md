@@ -1,6 +1,6 @@
 # Professional Experience
 
-[Back to README](./README.md) · [Projects](./projects.md) · [Research](./research.md) · [Full résumé](https://ponkojshill.csponkoj.chatgpt.site/resume)
+[Back to README](./README.md) · [Projects](./projects.md) · [Research](./research.md) · [Full résumé](https://ponkoj.com/resume)
 
 My work spans AI/ML research, intelligent learning systems, production machine learning, biomedical forecasting, geospatial intelligence, business intelligence, and data platforms.
 
@@ -21,7 +21,10 @@ My work spans AI/ML research, intelligent learning systems, production machine l
 
 **University of Nevada, Reno · Reno, Nevada · Aug 2022–Present**
 
-- Developed an NSF-funded AI/ML learning and assessment platform integrating Python-based automated evaluation, telemetry, supervised ML, guardrailed LLM tutoring, and personalized analytics; platform development is complete and experimental evaluation is in progress.
+- Developed an NSF-funded AI/ML learning and assessment platform integrating Python-based automated evaluation, telemetry, supervised ML, guardrailed LLM tutoring, and personalized analytics; the platform continues to evolve, with experimental evaluation in progress.
+- Evolved Robotics Programming Lab with a FastAPI backend, Flutter frontend, shared PostgreSQL/Neon data, and a separate code sandbox; automated tests remain the grading authority and AI tutoring is optional.
+- Applied Q-learning, PPO, and DQN methods and contributed to world-model/video-generation training and sim-to-real transfer research.
+- Collected and analyzed physical-robot HRI data using NAO, ROS, speech recognition, NLP, spoken responses, and interaction logging.
 - Planned hypothesis-driven experiments using pass rates, attempts, time-to-recovery, edit-run cycles, and learning outcomes to measure intervention impact.
 - Implemented an algorithmic evaluation framework with unit tests, hidden checks, pattern recognition, real-time failure analysis, and automated recommendations for student code.
 - Built NLP and LLM workflows with prompt engineering and guardrails to produce actionable tutoring feedback without exposing final solutions.
@@ -41,6 +44,8 @@ My work spans AI/ML research, intelligent learning systems, production machine l
 
 **Tahoe Forest Health System · Truckee, California · Mar 2026–Jul 2026**
 
+- Analyzed 426,759 healthcare referral records and resolved 119,749 of 121,719 missing provider-specialty values (98.38%) for production analytics.
+- Developed traceable specialty mappings using department, service-code, provider, and referral signals, documenting ambiguous cases.
 - Developed BI dashboards, operational reports, SQL datasets, and data models that translated healthcare operations and leadership needs into actionable information.
 - Gathered reporting requirements, documented business logic, validated metrics, tested outputs, and supported delivery from analysis through deployment and production support.
 - Built, automated, and troubleshot ETL and data-quality workflows across cloud sources, databases, and information systems.
@@ -97,7 +102,7 @@ My work spans AI/ML research, intelligent learning systems, production machine l
 
 ## Education
 
-- **Ph.D. in Computer Science**, University of Nevada, Reno · 2022–Present · CGPA 3.87
+- **Ph.D. in Computer Science**, University of Nevada, Reno · 2022–Present · CGPA 3.87 · Expected completion: Fall 2026
 - **M.S. in Computer Science**, University of Nevada, Reno · 2022–2024 · CGPA 3.87
 - **B.S. in Computer Science**, BRAC University · 2016–2020 · CGPA 3.60
 

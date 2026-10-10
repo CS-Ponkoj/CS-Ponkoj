@@ -23,7 +23,7 @@ I develop a browser-based learning environment that combines robotics programmin
 
 **Built:** evaluation, telemetry, simulation, and tutoring workflows<br>
 **Measures:** accuracy, efficiency, recovery, robustness, and learner experience<br>
-**Status:** platform developed; experimental evaluation in progress
+**Status:** active development; experimental evaluation in progress
 
 [Read the case study](./docs/ai-assisted-robotics-platform.md) · [Read the IEEE FIE paper](https://doi.org/10.1109/FIE61694.2024.10893417)
 
@@ -37,7 +37,25 @@ I build systems that combine visual evidence, OCR, associated text, and transfor
 
 [Read the digital-forensics case study](./docs/multimodal-forensics-ai.md) · [Open the repository](https://github.com/CS-Ponkoj/Hate-and-Threat-Detection-in-Forensics)
 
+### Simulation-First Autonomy and Temporal Gait Modeling
+
+Recent work includes a MuJoCo/Gymnasium navigation environment with sensing, dynamic obstacles, and safety intervention, plus subject-independent temporal gait classification using CASIA-C thermal silhouettes. Simulator results require separate physical-robot validation. Gait labels are deterministic operational targets; anatomical interpretation requires independent expert annotation.
+
+[Autonomous robot case study](./docs/autonomous-robot-environment.md) · [Gait case study](./docs/gait-phase-classification.md)
+
+### Physical-Robot Human–Robot Interaction
+
+Related research uses NAO and ROS with speech recognition, NLP, spoken responses, and interaction logging to collect and analyze participant interaction data. Ongoing manuscripts and experiments are separate from the published record below.
+
 ## Selected Publications
+
+### 2025 · ASEE Annual Conference
+
+**FORE: A Student-Centered Framework for Accessible Robotics Education through Simulation and Interactive Learning**
+
+Co-author · Accessible robotics education · Simulation · Interactive learning
+
+[Paper](https://peer.asee.org/56585)
 
 ### 2024 · IEEE Frontiers in Education
 
@@ -54,6 +72,14 @@ First author · Automated assessment · Robotics education · Test-driven develo
 Co-author · Personalization · Engineering education · Robotics learning
 
 [Paper](https://peer.asee.org/47002)
+
+### 2023 · IEEE Frontiers in Education
+
+**WIP: Development of a Student-Centered Personalized Learning Framework to Advance Undergraduate Robotics Education**
+
+First author · Personalized learning · Robotics education
+
+[DOI](https://doi.org/10.1109/FIE58773.2023.10343234)
 
 ### 2023 · IFIP Internet of Things
 

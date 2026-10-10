@@ -1,6 +1,6 @@
 # Project Portfolio
 
-[Back to README](./README.md) · [Research](./research.md) · [Experience](./experience.md) · [Live portfolio](https://ponkojshill.csponkoj.chatgpt.site/)
+[Back to README](./README.md) · [Research](./research.md) · [Experience](./experience.md) · [Live portfolio](https://ponkoj.com/)
 
 Selected research, open-source, and production projects are organized by evidence: public code, live demonstrations, publications, measurable outcomes, or professional experience.
 
@@ -9,6 +9,8 @@ Selected research, open-source, and production projects are organized by evidenc
 | Dates | System | Scope | Evidence |
 |---|---|---|---|
 | Aug 2022–Present | **AI-Assisted TDD for Robotics Learning** | Automated evaluation, telemetry, ROS2/Gazebo simulation, guardrailed LLM tutoring | [Case study](./docs/ai-assisted-robotics-platform.md) · [IEEE paper](https://doi.org/10.1109/FIE61694.2024.10893417) |
+| Ongoing | **Autonomous Robot Environment** | MuJoCo navigation simulation, sensing, dynamic obstacles, safety intervention, Gymnasium | [Case study](./docs/autonomous-robot-environment.md) · [Repository](https://github.com/CS-Ponkoj/Autonomous-Robot-Environment) |
+| Ongoing research | **Gait Phase Classification** | Temporal models, subject-independent splits, provisional labels, annotation QA | [Case study](./docs/gait-phase-classification.md) · [Repository](https://github.com/CS-Ponkoj/Gait-Phase-Classification) |
 | May 2026–Present | **AI-Assisted PCB Design** | Natural-language requirements, validated hardware artifacts, interactive review | [Case study](./docs/ai-assisted-pcb-design.md) · [Live demo](https://ai-assisted-pcb-design.streamlit.app/) · [Repository](https://github.com/CS-Ponkoj/AI-Assisted-PCB-Design) |
 | Nov 2025–Dec 2025 | **Hate and Threat Detection in Digital Forensics** | OCR, OpenCLIP, DeBERTa, evidence routing, auditable score fusion | [Case study](./docs/multimodal-forensics-ai.md) · [Repository](https://github.com/CS-Ponkoj/Hate-and-Threat-Detection-in-Forensics) |
 | Jun 2021–Aug 2022 | **Property Valuation and Geospatial Risk** | CatBoost, ResNet152V2, PostGIS, AWS, multimillion-record pipelines | [Case study](./docs/production-ml-real-estate.md) · [Experience](./experience.md#machine-learning-engineer--data-team-lead) |
@@ -24,10 +26,34 @@ An NSF-funded research platform combining browser-based robotics programming, au
 - **Built:** unit tests, hidden checks, real-time failure analysis, telemetry, simulation, and tutoring workflows
 - **Measures:** pass rates, attempts, time-to-recovery, edit-run cycles, accuracy, robustness, and learner experience
 - **Scale:** deployed learning components supporting 100+ students
-- **Status:** platform development complete; experimental evaluation in progress
-- **Tech:** Python, Flask, Flutter, ROS2, Gazebo, OpenAI APIs, automated testing, learning analytics
+- **Status:** active development and experimental evaluation in progress
+- **Tech:** Python, FastAPI, Flutter, PostgreSQL/Neon, ROS2, Gazebo, OpenAI APIs, automated testing, learning analytics
 
 [Read the case study](./docs/ai-assisted-robotics-platform.md)
+
+## Robotics Simulation and Temporal Vision
+
+### Autonomous Robot Environment
+
+A simulation-first MuJoCo office environment for differential-drive navigation research, with lidar, camera sensing, wheel encoders, dynamic cat obstacles, safety intervention, and a Gymnasium interface.
+
+- Supports manual control and baseline navigation for repeatable experiments
+- Exposes observations and navigation metrics for controllers and learning agents
+- **Status:** local simulator; physical-robot transfer and general autonomy performance remain unvalidated
+- **Tech:** Python, MuJoCo, Gymnasium, NumPy, Numba, Pygame, pytest
+
+[Read the case study](./docs/autonomous-robot-environment.md) · [Repository](https://github.com/CS-Ponkoj/Autonomous-Robot-Environment)
+
+### Gait Phase Classification
+
+A temporal gait research pipeline using CASIA-C thermal silhouettes and four provisional operational states, P0–P3.
+
+- Organizes dataset provenance, annotation QA, subject-independent folds, and held-out safeguards
+- Compares temporal models and baselines through reproducible subject-level evaluation
+- **Status:** deterministic labels remain provisional; model agreement with these targets does not establish anatomical gait-phase accuracy
+- **Tech:** Python, PyTorch, temporal modeling, attention, CASIA silhouettes, data QA
+
+[Read the case study](./docs/gait-phase-classification.md) · [Repository](https://github.com/CS-Ponkoj/Gait-Phase-Classification)
 
 ## Generative AI and Engineering Automation
 
