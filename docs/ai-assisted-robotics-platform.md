@@ -8,7 +8,7 @@
 | **Role** | Graduate Research Assistant |
 | **Timeline** | Aug 2022–Present |
 | **Users** | 100+ students |
-| **Status** | Platform developed; experimental evaluation in progress |
+| **Status** | Active development; experimental evaluation in progress |
 
 ## Problem
 
@@ -20,7 +20,7 @@ The platform combines structured content, browser-based programming, automated e
 
 ```mermaid
 flowchart LR
-    A["Learner<br/>Browser / Flutter"] --> B["Learning API<br/>Flask"]
+    A["Learner<br/>Browser / Flutter"] --> B["Learning API<br/>FastAPI"]
     B --> C["Automated Evaluation<br/>Tests + Hidden Checks"]
     C --> D["ROS2 / Gazebo<br/>Simulation"]
     B --> E["Behavioral Telemetry<br/>Attempts + Recovery"]
@@ -28,6 +28,8 @@ flowchart LR
     E --> F
     F --> A
 ```
+
+The current Robotics Programming Lab uses FastAPI, Flutter, shared PostgreSQL/Neon data, and a separate code sandbox. Automated tests determine grades; optional AI tutoring is off by default. ROS2/Gazebo supports related robotics exercises. Historical publications document earlier stages of the research.
 
 ## What I Built
 
@@ -42,14 +44,16 @@ flowchart LR
 
 **Measures:** accuracy, efficiency, recovery, robustness, and learner experience
 
-The research uses hypothesis-driven evaluation across system and learning outcomes. Platform development is complete; experimental evaluation is in progress, so this case study does not present preliminary results as final conclusions.
+The research uses hypothesis-driven evaluation across system and learning outcomes. Platform development and experimental evaluation are ongoing, so this case study does not present preliminary results as final conclusions.
 
 ## Technology
 
-Python, Flask, Flutter, Dart, ROS2, Gazebo, OpenAI APIs, prompt engineering, automated testing, learning analytics, statistical analysis.
+Python, FastAPI, Flutter, Dart, PostgreSQL/Neon, ROS2, Gazebo, OpenAI APIs, prompt engineering, automated testing, learning analytics, statistical analysis.
 
 ## Evidence
 
 - [IEEE FIE 2024: Unit Testing Framework for Self-Guided Personalized Online Robotics Learning](https://doi.org/10.1109/FIE61694.2024.10893417)
 - [ASEE 2024: Student-Centered Personalized Robotics Learning Framework](https://peer.asee.org/47002)
 - [Research and publication record](../research.md)
+
+- [Robotics Programming Lab repository](https://github.com/CS-Ponkoj/Robotics-Programming-Lab)

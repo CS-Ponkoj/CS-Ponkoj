@@ -2,16 +2,16 @@
 
 # Ponkoj Chandra Shill
 
-**AI/ML Researcher · Ph.D. Candidate in Computer Science**
+**AI/ML Researcher · Research Engineer · Ph.D. Candidate in Computer Science**
 
-I develop intelligent learning and production AI systems that combine automated evaluation, behavioral telemetry, simulation, multimodal evidence, and guardrailed LLM feedback.
+I develop intelligent learning and production AI systems that combine automated evaluation, behavioral telemetry, robotics simulation, multimodal evidence, and guardrailed LLM feedback. My recent work includes Robotics Programming Lab, a MuJoCo navigation environment, and temporal gait-phase research.
 
 Available for **AI/ML research, applied scientist, and machine learning engineering roles beginning January 2027**.
 
-🌐 **Website:** [ponkojshill.csponkoj.chatgpt.site](https://ponkojshill.csponkoj.chatgpt.site/)
+🌐 **Website:** [ponkoj.com](https://ponkoj.com/)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2563eb?style=flat-square&logo=googlechrome&logoColor=white)](https://ponkojshill.csponkoj.chatgpt.site/)
-[![Résumé](https://img.shields.io/badge/R%C3%A9sum%C3%A9-View-0f766e?style=flat-square&logo=readthedocs&logoColor=white)](https://ponkojshill.csponkoj.chatgpt.site/resume)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2563eb?style=flat-square&logo=googlechrome&logoColor=white)](https://ponkoj.com/)
+[![Résumé](https://img.shields.io/badge/R%C3%A9sum%C3%A9-View-0f766e?style=flat-square&logo=readthedocs&logoColor=white)](https://ponkoj.com/resume)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ponkoj%20Shill-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ponkoj)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=Wfm3Z_YAAAAJ&hl=en)
 [![Email](https://img.shields.io/badge/Email-csponkoj%40gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:csponkoj@gmail.com)
@@ -43,6 +43,8 @@ flowchart TB
 | System | What I Built | Evidence |
 |---|---|---|
 | **AI-Assisted TDD for Robotics Learning** | Automated evaluation, behavioral telemetry, ROS2/Gazebo simulation, and guardrailed LLM tutoring | [Case study](./docs/ai-assisted-robotics-platform.md) · [IEEE paper](https://doi.org/10.1109/FIE61694.2024.10893417) |
+| **Autonomous Robot Environment** | MuJoCo office simulation, lidar/camera observations, dynamic obstacles, safety intervention, and a Gymnasium interface | [Case study](./docs/autonomous-robot-environment.md) · [Repository](https://github.com/CS-Ponkoj/Autonomous-Robot-Environment) |
+| **Gait Phase Classification** | Temporal modeling, subject-independent evaluation, provisional-label QA, and reproducible experiments | [Case study](./docs/gait-phase-classification.md) · [Repository](https://github.com/CS-Ponkoj/Gait-Phase-Classification) |
 | **AI-Assisted PCB Design** | Natural-language requirements transformed into validated BOM, pin map, netlist, power budget, and interactive design review | [Case study](./docs/ai-assisted-pcb-design.md) · [Live demo](https://ai-assisted-pcb-design.streamlit.app/) · [Repository](https://github.com/CS-Ponkoj/AI-Assisted-PCB-Design) |
 | **Multimodal Digital Forensics** | OCR, OpenCLIP, DeBERTa, modality-aware routing, and auditable score fusion | [Case study](./docs/multimodal-forensics-ai.md) · [Repository](https://github.com/CS-Ponkoj/Hate-and-Threat-Detection-in-Forensics) |
 | **Property Valuation and Geospatial Risk** | CatBoost valuation, ResNet152V2 classification, PostGIS analytics, and AWS ETL pipelines | [Case study](./docs/production-ml-real-estate.md) · [Experience](./experience.md#machine-learning-engineer--data-team-lead) |
@@ -63,7 +65,7 @@ flowchart TB
 
 ```mermaid
 flowchart LR
-    A["Learner<br/>Browser / Flutter"] --> B["Learning API<br/>Flask"]
+    A["Learner<br/>Browser / Flutter"] --> B["Learning API<br/>FastAPI"]
     B --> C["Automated Evaluation<br/>Tests + Hidden Checks"]
     C --> D["ROS2 / Gazebo<br/>Simulation"]
     B --> E["Behavioral Telemetry<br/>Attempts + Recovery"]
@@ -72,29 +74,30 @@ flowchart LR
     F --> A
 ```
 
-**Built:** evaluation, telemetry, simulation, and tutoring workflows<br>
+**Built:** FastAPI/Flutter workflows, test-based grading, shared PostgreSQL/Neon data, telemetry, simulation, and optional tutoring<br>
 **Measures:** accuracy, efficiency, recovery, robustness, and learner experience<br>
-**Status:** platform developed; experimental evaluation in progress
+**Status:** active development; experimental evaluation in progress
 
 ## Selected Experience
 
 - **Graduate Research Assistant, University of Nevada, Reno** · Aug 2022–Present<br>
-  Developing an NSF-funded AI/ML learning and assessment platform and publishing research on automated evaluation and personalized robotics education.
+  Developing Robotics Programming Lab with FastAPI, Flutter, PostgreSQL/Neon, automated grading, learning telemetry, and optional AI tutoring; contributing to robotics education and physical-robot HRI research.
 - **Business Intelligence Developer, Tahoe Forest Health System** · Mar 2026–Jul 2026<br>
-  Built dashboards, SQL datasets, data models, and repeatable ETL/data-quality workflows for healthcare operations.
+  Analyzed 426,759 referral records, resolved 98.38% of missing specialty values, and built SQL, ETL, dashboards, and Microsoft Fabric reporting workflows.
 - **AI Software Engineer Intern, Consynsys Technologies** · Jan 2024–May 2024<br>
   Developed biomedical time-series forecasting, optimization, predictive maintenance, and cloud AI workflows.
 - **Machine Learning Engineer / Data Team Lead, Softwrd Ltd** · Jun 2021–Aug 2022<br>
   Led multimodal property valuation, computer vision, geospatial intelligence, and large-scale cloud data processing.
 
-[View complete experience](./experience.md) · [View full résumé](https://ponkojshill.csponkoj.chatgpt.site/resume)
+[View complete experience](./experience.md) · [View full résumé](https://ponkoj.com/resume)
 
 ## Selected Publications
 
-1. **WIP: A Unit Testing Framework for Self-Guided Personalized Online Robotics Learning**: First author, IEEE FIE 2024. [DOI](https://doi.org/10.1109/FIE61694.2024.10893417)
-2. **Undergraduate Robotics Education with General Instructors Using a Student-Centered Personalized Learning Framework**: Co-author, ASEE 2024. [Paper](https://peer.asee.org/47002)
-3. **A Schedule of Duties in the Cloud Space Using a Modified Salp Swarm Algorithm**: Co-author, IFIP IoT 2023. [DOI](https://doi.org/10.1007/978-3-031-45878-1_5)
-4. **Multi-modal Hate Speech Detection Using Machine Learning**: Co-author, IEEE Big Data 2021. [DOI](https://doi.org/10.1109/BigData52589.2021.9671955)
+1. **FORE: A Student-Centered Framework for Accessible Robotics Education through Simulation and Interactive Learning**: Co-author, ASEE 2025. [Paper](https://peer.asee.org/56585)
+2. **WIP: A Unit Testing Framework for Self-Guided Personalized Online Robotics Learning**: First author, IEEE FIE 2024. [DOI](https://doi.org/10.1109/FIE61694.2024.10893417)
+3. **Undergraduate Robotics Education with General Instructors Using a Student-Centered Personalized Learning Framework**: Co-author, ASEE 2024. [Paper](https://peer.asee.org/47002)
+4. **A Schedule of Duties in the Cloud Space Using a Modified Salp Swarm Algorithm**: Co-author, IFIP IoT 2023. [DOI](https://doi.org/10.1007/978-3-031-45878-1_5)
+5. **Multi-modal Hate Speech Detection Using Machine Learning**: Co-author, IEEE Big Data 2021. [DOI](https://doi.org/10.1109/BigData52589.2021.9671955)
 
 [View research and publication details](./research.md) · [View complete Google Scholar profile](https://scholar.google.com/citations?user=Wfm3Z_YAAAAJ&hl=en)
 
@@ -105,16 +108,16 @@ flowchart LR
 - **LLM and generative AI systems:** RAG, prompt engineering, guardrails, structured generation, source-grounded feedback, and model-assisted engineering workflows
 - **Multimodal AI and computer vision:** vision-language models, OCR, transformer-based text analysis, evidence routing, score fusion, and image classification
 - **Predictive ML and experimentation:** regression, time-series forecasting, optimization, feature engineering, hypothesis-driven evaluation, and statistical analysis
-- **Robotics and intelligent learning:** ROS2/Gazebo simulation, automated assessment, behavioral telemetry, personalized feedback, and test-driven learning workflows
+- **Robotics and intelligent learning:** ROS2/Gazebo, MuJoCo/Gymnasium simulation, automated assessment, behavioral telemetry, personalized feedback, and test-driven learning workflows
 - **Production data and geospatial systems:** cloud processing, ETL, data-quality validation, PostgreSQL/PostGIS analytics, APIs, monitoring, and operational reporting
 
 ### Selected Technologies
 
-**Languages and software:** `Python` · `SQL` · `C++` · `Flask` · `REST APIs` · `Streamlit` · `Flutter`
+**Languages and software:** `Python` · `SQL` · `C++` · `FastAPI` · `Flask` · `REST APIs` · `Streamlit` · `Flutter`
 
-**AI and modeling:** `PyTorch` · `TensorFlow` · `scikit-learn` · `Hugging Face` · `OpenCLIP` · `DeBERTa` · `CatBoost`
+**AI and modeling:** `PyTorch` · `TensorFlow` · `scikit-learn` · `Hugging Face` · `OpenCLIP` · `DeBERTa` · `CatBoost` · `Q-learning` · `PPO` · `DQN`
 
-**Cloud and data:** `AWS` · `GCP` · `PostgreSQL` · `PostGIS` · `MySQL` · `MongoDB` · `Microsoft Fabric`
+**Cloud and data:** `AWS` · `GCP` · `PostgreSQL` · `Neon` · `PostGIS` · `MySQL` · `MongoDB` · `Microsoft Fabric`
 
 **Engineering practice:** `Experiment Design` · `Model Evaluation` · `TDD` · `Unit Testing` · `Regression Testing` · `Git` · `Linux` · `Technical Documentation`
 
@@ -129,11 +132,11 @@ flowchart LR
 <p align="center">
   <a href="./experience.md"><img src="https://img.shields.io/badge/EXPERIENCE-CAREER_HISTORY-0F766E?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Professional Experience"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://ponkojshill.csponkoj.chatgpt.site/"><img src="https://img.shields.io/badge/WEBSITE-LIVE_PORTFOLIO-0891B2?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Live Portfolio Website"></a>
+  <a href="https://ponkoj.com/"><img src="https://img.shields.io/badge/WEBSITE-LIVE_PORTFOLIO-0891B2?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Live Portfolio Website"></a>
 </p>
 
 <p align="center">
-  <a href="https://ponkojshill.csponkoj.chatgpt.site/resume"><img src="https://img.shields.io/badge/R%C3%89SUM%C3%89-VIEW_FULL-334155?style=for-the-badge&amp;logo=readthedocs&amp;logoColor=white" alt="Full Resume"></a>
+  <a href="https://ponkoj.com/resume"><img src="https://img.shields.io/badge/R%C3%89SUM%C3%89-VIEW_FULL-334155?style=for-the-badge&amp;logo=readthedocs&amp;logoColor=white" alt="Full Resume"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:csponkoj@gmail.com"><img src="https://img.shields.io/badge/CONTACT-EMAIL_ME-B91C1C?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Ponkoj"></a>
 </p>
