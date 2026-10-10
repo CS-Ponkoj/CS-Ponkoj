@@ -18,11 +18,17 @@ Available for **AI/ML research, applied scientist, and machine learning engineer
 
 ## Evidence at a Glance
 
-| Research | Applied Impact | Production Scale |
-|---|---|---|
-| **6 peer-reviewed papers** | **100+ students** supported by an AI-assisted learning platform | **8M+ images** processed |
-| **160+ citations** | **50%** reduction in biomedical pump calibration effort | **4M+ property records** analyzed |
-| **NSF-funded research** | **15%** improvement in customer retention | **100+ geospatial risk zones** evaluated |
+| Area | Evidence | Context |
+| :--- | :--- | :--- |
+| Research | **6 peer-reviewed papers** | Published research contributions |
+| Research | **160+ citations** | Citation count as of July 2026 |
+| Research | **NSF-funded work** | AI-assisted robotics education research |
+| Education | **100+ students** | Supported through AI-assisted robotics learning experiences |
+| Biomedical ML | **50% less calibration effort** | Biomedical pump calibration optimization |
+| Business analytics | **15% improvement in retention** | Customer retention at Truck Lagbe |
+| Computer vision | **8M+ images processed** | Property-image processing at Softwrd Ltd |
+| Production data | **4M+ property records analyzed** | Property valuation and geospatial analytics at Softwrd Ltd |
+| Geospatial analytics | **100+ risk zones evaluated** | Property-location risk analysis at Softwrd Ltd |
 
 *Citation count current as of July 2026.*
 
